@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp" >
+
+    <LinearLayout
+        android:id="@+id/box_right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:padding="30dp" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="192dp"
+            android:layout_gravity="center"
+            android:gravity="right"
+            android:orientation="vertical"
+            android:paddingRight="25dp"
+            android:paddingTop="0dp" >
+
+             <TextView
+                android:id="@+id/patternNameTextField"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="25dp"
+                android:text="Pattern Name"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+             
+            <TextView
+                android:id="@+id/UnitTextField"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="25dp"
+                android:text="Unit"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Height"
+                android:layout_marginBottom="25dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Width"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="left"
+            android:orientation="vertical"
+            android:paddingLeft="10dp" >
+
+            <EditText
+                android:id="@+id/patternNameField"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/textfield_bg"
+                android:hint="Enter tile pattern name"
+                android:inputType="text"
+                android:maxLines="1"
+                android:paddingLeft="20dp" >
+
+                </EditText>
+            <Spinner
+                android:id="@+id/Dialog_unitSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/textfield_bg"
+                android:paddingLeft="20dp" />
+
+            <EditText
+                android:id="@+id/dimenA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/textfield_bg"
+                android:hint="Height in millemeters"
+                android:inputType="numberDecimal"
+                android:paddingLeft="20dp" >
+
+                <requestFocus />
+            </EditText>
+
+            <EditText
+                android:id="@+id/dimenB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/textfield_bg"
+                android:hint="Width in millemeters"
+                android:inputType="numberDecimal"
+                android:paddingLeft="20dp" />
+             
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="257dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="30dp" >
+
+        <Button
+            android:id="@+id/crop_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.19"
+            android:text="Cancel" />
+
+        <Button
+            android:id="@+id/crop_okay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.19"
+            android:text="OK" />
+    </LinearLayout>
+
+</LinearLayout>

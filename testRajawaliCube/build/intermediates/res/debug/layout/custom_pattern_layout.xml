@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/sliderbg"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:id="@+id/main_content"
+        android:layout_width="512px"
+        android:layout_height="512px"
+        android:onClick="mainLayoutPressed"
+        android:orientation="horizontal" >
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/custome_content_slider"
+        android:layout_width="500dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical|right"
+        android:background="@drawable/slider_bg"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:id="@+id/custome_patternScrollView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout><!-- From: file:/home/neeraj/StudioProjects/testRajawaliCube/testRajawaliCube/src/main/res/layout/custom_pattern_layout.xml -->

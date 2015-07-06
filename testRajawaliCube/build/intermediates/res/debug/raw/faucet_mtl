@@ -1,0 +1,35 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl Chrome_Mat
+Ka  0.0 0.0 0.0
+Kd  0.4 0.4 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  15.0
+illum 2
+#
+newmtl Red_Mat
+Ka  0.8 0.0 0.0
+Kd  0.8 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  26.6
+illum 2
+#
+newmtl Blue_Mat
+Ka  0.0 0.0 0.7
+Kd  0.0 0.0 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  26.6
+illum 2
+#
+newmtl Ground_Mat
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  26.6
+illum 2
+#
+# EOF

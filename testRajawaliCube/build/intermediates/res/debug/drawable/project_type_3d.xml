@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_pressed="true"
+        android:drawable="@drawable/three3d_pink"></item>
+	
+    <item android:drawable="@drawable/three3d_blue"></item>
+</selector>
+<!-- From: file:/home/neeraj/StudioProjects/testRajawaliCube/testRajawaliCube/src/main/res/drawable/project_type_3d.xml -->

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    
+    
+    >
+
+     
+    
+
+    <LinearLayout
+        android:id="@+id/slider"
+        android:layout_width="375dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical|right"
+        android:background="@drawable/slider_bg"
+        
+        
+        android:orientation="vertical"
+        android:visibility="gone" >
+        
+        <LinearLayout
+    	android:id="@+id/image_view_holder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        >
+        
+             <EditText android:id="@+id/obj_Search"
+            android:layout_width="240dp"
+            android:singleLine="true"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            
+            />
+             
+             <Button
+        android:id="@+id/search_objects_button"
+        android:layout_width="115dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="158dp"
+       android:gravity="center"
+        android:text="SEARCH" />
+     </LinearLayout>
+       
+
+        <LinearLayout
+            android:id="@+id/ScrollView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

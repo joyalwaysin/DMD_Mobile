@@ -1,0 +1,12 @@
+<resources>
+
+    <color name="fog">#FFFFFF</color>
+    <color name="sliderbg">#9B9494</color>
+    <color name="black">#000</color>
+    <color name="brandText">#CA4714</color>
+    <color name="translucent_white">#80FFFFFF</color>
+    <color name="transparent_full">#FFFFFFFF</color>
+    <color name="post_name">#F26D2E</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

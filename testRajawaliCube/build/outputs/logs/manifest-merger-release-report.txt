@@ -1,0 +1,425 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:9:5
+	android:name
+		ADDED from AndroidManifest.xml:9:22
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:10:5
+	android:name
+		ADDED from AndroidManifest.xml:10:22
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from AndroidManifest.xml:11:5
+	android:name
+		ADDED from AndroidManifest.xml:11:22
+uses-permission#com.android.vending.BILLING
+ADDED from AndroidManifest.xml:12:5
+	android:name
+		ADDED from AndroidManifest.xml:12:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:13:5
+	android:name
+		ADDED from AndroidManifest.xml:13:22
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from AndroidManifest.xml:14:5
+	android:name
+		ADDED from AndroidManifest.xml:14:22
+supports-screens
+ADDED from AndroidManifest.xml:16:5
+	android:largeScreens
+		ADDED from AndroidManifest.xml:17:9
+	android:smallScreens
+		ADDED from AndroidManifest.xml:20:9
+	android:normalScreens
+		ADDED from AndroidManifest.xml:19:9
+	android:xlargeScreens
+		ADDED from AndroidManifest.xml:21:9
+	android:largestWidthLimitDp
+		ADDED from AndroidManifest.xml:18:9
+application
+ADDED from AndroidManifest.xml:23:5
+MERGED from testRajawaliCube:main:unspecified:7:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.android.support:appcompat-v7:22.2.0:22:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+	android:label
+		ADDED from AndroidManifest.xml:27:9
+	android:hardwareAccelerated
+		ADDED from testRajawaliCube:main:unspecified:9:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:25:9
+	android:icon
+		ADDED from AndroidManifest.xml:26:9
+	android:largeHeap
+		ADDED from AndroidManifest.xml:28:9
+	android:theme
+		ADDED from AndroidManifest.xml:29:9
+	android:name
+		ADDED from AndroidManifest.xml:24:9
+activity#com.nagainfo.smartShowroom.HomeActivity
+ADDED from AndroidManifest.xml:65:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:69:13
+	android:label
+		ADDED from AndroidManifest.xml:68:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:67:13
+	android:theme
+		ADDED from AndroidManifest.xml:70:13
+	android:name
+		ADDED from AndroidManifest.xml:66:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:71:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:72:17
+	android:name
+		ADDED from AndroidManifest.xml:72:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:74:17
+	android:name
+		ADDED from AndroidManifest.xml:74:27
+activity#com.nagainfo.smartShowroom.Sanitaries
+ADDED from AndroidManifest.xml:77:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:81:13
+	android:label
+		ADDED from AndroidManifest.xml:80:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:79:13
+	android:name
+		ADDED from AndroidManifest.xml:78:13
+activity#com.nagainfo.smartShowroom.ProjectTypeSelect
+ADDED from AndroidManifest.xml:82:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:86:13
+	android:label
+		ADDED from AndroidManifest.xml:85:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:84:13
+	android:name
+		ADDED from AndroidManifest.xml:83:13
+activity#com.nagainfo.smartShowroom.AmbienceViewSelector
+ADDED from AndroidManifest.xml:87:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:91:13
+	android:label
+		ADDED from AndroidManifest.xml:90:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:89:13
+	android:name
+		ADDED from AndroidManifest.xml:88:13
+activity#com.nagainfo.smartShowroom.AmbienceBedroom
+ADDED from AndroidManifest.xml:92:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:96:13
+	android:label
+		ADDED from AndroidManifest.xml:95:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:94:13
+	android:name
+		ADDED from AndroidManifest.xml:93:13
+activity#com.nagainfo.smartShowroom.AmbienceDrawingroom
+ADDED from AndroidManifest.xml:97:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:101:13
+	android:label
+		ADDED from AndroidManifest.xml:100:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:99:13
+	android:name
+		ADDED from AndroidManifest.xml:98:13
+activity#com.nagainfo.smartShowroom.AmbienceLivingRoom01
+ADDED from AndroidManifest.xml:102:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:106:13
+	android:label
+		ADDED from AndroidManifest.xml:105:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:104:13
+	android:name
+		ADDED from AndroidManifest.xml:103:13
+activity#com.nagainfo.smartShowroom.AmbienceLivingRoom02
+ADDED from AndroidManifest.xml:107:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:111:13
+	android:label
+		ADDED from AndroidManifest.xml:110:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:109:13
+	android:name
+		ADDED from AndroidManifest.xml:108:13
+activity#com.nagainfo.smartShowroom.AmbienceBathroom
+ADDED from AndroidManifest.xml:112:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:116:13
+	android:label
+		ADDED from AndroidManifest.xml:115:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:114:13
+	android:name
+		ADDED from AndroidManifest.xml:113:13
+activity#com.nagainfo.smartShowroom.AmbienceExterior
+ADDED from AndroidManifest.xml:117:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:121:13
+	android:label
+		ADDED from AndroidManifest.xml:120:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:119:13
+	android:name
+		ADDED from AndroidManifest.xml:118:13
+activity#com.nagainfo.smartShowroom.AmbienceKitchen
+ADDED from AndroidManifest.xml:122:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:126:13
+	android:label
+		ADDED from AndroidManifest.xml:125:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:124:13
+	android:name
+		ADDED from AndroidManifest.xml:123:13
+activity#com.nagainfo.smartShowroom.EditAmbienceWall
+ADDED from AndroidManifest.xml:127:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:131:13
+	android:label
+		ADDED from AndroidManifest.xml:130:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:129:13
+	android:name
+		ADDED from AndroidManifest.xml:128:13
+activity#com.nagainfo.smartShowroom.AlbumAcivity
+ADDED from AndroidManifest.xml:133:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:137:13
+	android:label
+		ADDED from AndroidManifest.xml:136:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:135:13
+	android:theme
+		ADDED from AndroidManifest.xml:138:13
+	android:name
+		ADDED from AndroidManifest.xml:134:13
+activity#com.nagainfo.smartShowroom.ViewSelector
+ADDED from AndroidManifest.xml:139:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:143:13
+	android:label
+		ADDED from AndroidManifest.xml:142:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:141:13
+	android:name
+		ADDED from AndroidManifest.xml:140:13
+activity#com.nagainfo.smartShowroom.NewProjectActivity
+ADDED from AndroidManifest.xml:144:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:148:13
+	android:label
+		ADDED from AndroidManifest.xml:147:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:146:13
+	android:theme
+		ADDED from AndroidManifest.xml:149:13
+	android:name
+		ADDED from AndroidManifest.xml:145:13
+activity#com.nagainfo.update.ActivityCountry
+ADDED from AndroidManifest.xml:150:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:154:13
+	android:label
+		ADDED from AndroidManifest.xml:153:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:152:13
+	android:name
+		ADDED from AndroidManifest.xml:151:13
+activity#com.nagainfo.smartShowroom.ViewPatternActivity
+ADDED from AndroidManifest.xml:155:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:158:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:157:13
+	android:name
+		ADDED from AndroidManifest.xml:156:13
+activity#com.nagainfo.update.ActivityOffers
+ADDED from AndroidManifest.xml:159:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:163:13
+	android:label
+		ADDED from AndroidManifest.xml:162:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:161:13
+	android:theme
+		ADDED from AndroidManifest.xml:164:13
+	android:name
+		ADDED from AndroidManifest.xml:160:13
+activity#com.nagainfo.smartShowroom.SelectShapeActivity
+ADDED from AndroidManifest.xml:165:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:169:13
+	android:label
+		ADDED from AndroidManifest.xml:168:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:167:13
+	android:theme
+		ADDED from AndroidManifest.xml:170:13
+	android:name
+		ADDED from AndroidManifest.xml:166:13
+activity#com.nagainfo.smartShowroom.SetupDimensionsActivity
+ADDED from AndroidManifest.xml:171:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:175:13
+	android:label
+		ADDED from AndroidManifest.xml:174:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:173:13
+	android:name
+		ADDED from AndroidManifest.xml:172:13
+activity#com.nagainfo.smartShowroom.PatternLibraryActivity
+ADDED from AndroidManifest.xml:185:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:189:13
+	android:label
+		ADDED from AndroidManifest.xml:188:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:187:13
+	android:name
+		ADDED from AndroidManifest.xml:186:13
+activity#com.nagainfo.smartShowroom.FileExplore
+ADDED from AndroidManifest.xml:190:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:194:13
+	android:label
+		ADDED from AndroidManifest.xml:193:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:192:13
+	android:name
+		ADDED from AndroidManifest.xml:191:13
+activity#com.nagainfo.smartShowroom.Imports
+ADDED from AndroidManifest.xml:195:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:199:13
+	android:label
+		ADDED from AndroidManifest.xml:198:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:197:13
+	android:name
+		ADDED from AndroidManifest.xml:196:13
+activity#com.nagainfo.update.ActivityUpdate
+ADDED from AndroidManifest.xml:200:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:203:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:202:13
+	android:name
+		ADDED from AndroidManifest.xml:201:13
+activity#com.nagainfo.update.ActivityProduct
+ADDED from AndroidManifest.xml:204:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:207:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:206:13
+	android:theme
+		ADDED from AndroidManifest.xml:208:13
+	android:name
+		ADDED from AndroidManifest.xml:205:13
+activity#com.nagainfo.smartShowroom.LoadProject
+ADDED from AndroidManifest.xml:209:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:212:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:211:13
+	android:name
+		ADDED from AndroidManifest.xml:210:13
+activity#com.nagainfo.smartShowroom.CustomPatternActivity
+ADDED from AndroidManifest.xml:213:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:216:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:215:13
+	android:name
+		ADDED from AndroidManifest.xml:214:13
+activity#com.nagainfo.smartShowroom.Room3DActivity
+ADDED from AndroidManifest.xml:217:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:220:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:219:13
+	android:name
+		ADDED from AndroidManifest.xml:218:13
+intent-filter#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:221:13
+activity#com.nagainfo.smartShowroom.Room3DActivity2
+ADDED from AndroidManifest.xml:225:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:228:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:227:13
+	android:name
+		ADDED from AndroidManifest.xml:226:13
+activity#com.nagainfo.update.ActivityCompany
+ADDED from AndroidManifest.xml:233:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:236:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:235:13
+	android:name
+		ADDED from AndroidManifest.xml:234:13
+activity#com.nagainfo.camera.CamCrop
+ADDED from AndroidManifest.xml:241:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:244:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:243:13
+	android:name
+		ADDED from AndroidManifest.xml:242:13
+activity#com.nagainfo.smartShowroom.ListCustomPatternActivity
+ADDED from AndroidManifest.xml:249:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:252:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:251:13
+	android:theme
+		ADDED from AndroidManifest.xml:253:13
+	android:name
+		ADDED from AndroidManifest.xml:250:13
+activity#com.nagainfo.help.ActivityHelp
+ADDED from AndroidManifest.xml:258:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:261:13
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:260:13
+	android:name
+		ADDED from AndroidManifest.xml:259:13
+uses-sdk
+INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.android.support:appcompat-v7:22.2.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.edmodo:cropper:1.0.1:7:5
+MERGED from testRajawaliCube:openCVLibrary2410:unspecified:7:5
+MERGED from testRajawaliCube:rajawali:unspecified:7:5
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from AndroidManifest.xml:2:1 reason: uk.co.senab.photoview has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from AndroidManifest.xml:2:1 reason: uk.co.senab.photoview requested WRITE_EXTERNAL_STORAGE

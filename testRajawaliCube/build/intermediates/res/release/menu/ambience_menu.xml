@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/furnitureVisiblity"
+        android:showAsAction="always"
+        android:title="Hide Furniture"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/custom_edit"
+        android:showAsAction="always"
+        android:title="CUSTOM DESIGN"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/grooveSwap"
+        android:showAsAction="always"
+        android:title="GROOVES ON"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/save"
+        android:showAsAction="always"
+        android:title="EXPORT">
+        <menu>
+            <item
+                android:id="@+id/as_image"
+                android:title="Export As Image"/>
+        </menu>
+    </item>
+
+</menu><!-- From: file:/home/neeraj/StudioProjects/testRajawaliCube/testRajawaliCube/src/main/res/menu/ambience_menu.xml -->

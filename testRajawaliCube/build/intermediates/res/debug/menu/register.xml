@@ -1,0 +1,56 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/grooveSwap"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="GROOVES ON">
+    </item>
+    <item
+        android:id="@+id/wallInfo"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Wall Info"/>
+    <item
+        android:id="@+id/actionbarTool"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Preview"/>
+    <item
+        android:id="@+id/actionPen"
+        android:icon="@drawable/pencil"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:visible="true"/>
+    <item
+        android:id="@+id/actionPointer"
+        android:icon="@drawable/selector_but"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:visible="true"/>
+    <!--
+         <item
+        android:id="@+id/actionbarTool"
+        android:icon="@drawable/object_library_button"
+        android:orderInCategory="100"
+        android:showAsAction="always"/>
+    -->
+    <item
+        android:id="@+id/actionSearch"
+        android:icon="@drawable/search_button"
+        android:orderInCategory="100"
+        android:showAsAction="always"/>
+    <item
+        android:id="@+id/actionHome"
+        android:icon="@drawable/home_icon_button"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:visible="false"/>
+    <item
+        android:id="@+id/actionDone"
+        android:icon="@drawable/tick"
+        android:orderInCategory="100"
+        android:showAsAction="always">
+    </item>
+
+</menu><!-- From: file:/home/neeraj/StudioProjects/testRajawaliCube/testRajawaliCube/src/main/res/menu/register.xml -->
