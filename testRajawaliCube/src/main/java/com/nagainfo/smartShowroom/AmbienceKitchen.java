@@ -110,12 +110,12 @@ public class AmbienceKitchen extends Activity implements OnClickListener,
     private View patternContent;
     private Button filterSearchButton2;
     private LinearLayout patternScrollView;
-    private RelativeLayout main_layout;
-    private LinearLayout content_slider;
-    private RelativeLayout patternHeader;
-    private Object previewDialog;
+//    private RelativeLayout main_layout;
+//    private LinearLayout content_slider;
+//    private RelativeLayout patternHeader;
+//    private Object previewDialog;
     private ActionBarDrawerToggle mDrawerToggle;
-    private PhotoViewAttacher mAttacher;
+//    private PhotoViewAttacher mAttacher;
 
     private float scaleFactor;
     private Float density;
@@ -1342,11 +1342,11 @@ public class AmbienceKitchen extends Activity implements OnClickListener,
         filterSearchButton2.setOnClickListener(AmbienceKitchen.this);
 
         patternScrollView = (LinearLayout) findViewById(R.id.patternScrollView);
-        main_layout = (RelativeLayout) findViewById(R.id.main_content);
-        content_slider = (LinearLayout) findViewById(R.id.content_slider);
-        patternHeader = (RelativeLayout) findViewById(R.id.patternHeader);
-
-        previewDialog = createPreviewDialog();
+//        main_layout = (RelativeLayout) findViewById(R.id.main_content);
+//        content_slider = (LinearLayout) findViewById(R.id.content_slider);
+//        patternHeader = (RelativeLayout) findViewById(R.id.patternHeader);
+//
+//        previewDialog = createPreviewDialog();
 
         mDrawerToggle = new ActionBarDrawerToggle(this, leftDrawer,
                 R.drawable.ic_drawer, R.string.ambience_drawer_open,
@@ -2864,7 +2864,7 @@ public class AmbienceKitchen extends Activity implements OnClickListener,
         ImageView img = (ImageView) dialog.findViewById(R.id.previewImageView);
 
         img.setScaleType(ScaleType.CENTER_INSIDE);
-        mAttacher = new PhotoViewAttacher(img);
+//        mAttacher = new PhotoViewAttacher(img);
         return dialog;
 
     }

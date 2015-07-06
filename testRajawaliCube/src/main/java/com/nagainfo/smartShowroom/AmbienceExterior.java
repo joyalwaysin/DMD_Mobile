@@ -93,12 +93,12 @@ public class AmbienceExterior extends Activity implements
 	private View patternContent;
 	private Button filterSearchButton2;
 	private LinearLayout patternScrollView;
-	private RelativeLayout main_layout;
-	private LinearLayout content_slider;
-	private RelativeLayout patternHeader;
-	private Object previewDialog;
+//	private RelativeLayout main_layout;
+//	private LinearLayout content_slider;
+//	private RelativeLayout patternHeader;
+//	private Object previewDialog;
 	private ActionBarDrawerToggle mDrawerToggle;
-	private PhotoViewAttacher mAttacher;
+//	private PhotoViewAttacher mAttacher;
 	private GridView grid;
 	private static final String KEY_BRAND_NAME = "pro_brand";
 	private static final String KEY_DIMEN = "pro_dimen";
@@ -1236,11 +1236,11 @@ public class AmbienceExterior extends Activity implements
 		filterSearchButton2.setOnClickListener(AmbienceExterior.this);
 
 		patternScrollView = (LinearLayout) findViewById(R.id.patternScrollView);
-		main_layout = (RelativeLayout) findViewById(R.id.main_content);
-		content_slider = (LinearLayout) findViewById(R.id.content_slider);
-		patternHeader = (RelativeLayout) findViewById(R.id.patternHeader);
-
-		previewDialog = createPreviewDialog();
+//		main_layout = (RelativeLayout) findViewById(R.id.main_content);
+//		content_slider = (LinearLayout) findViewById(R.id.content_slider);
+//		patternHeader = (RelativeLayout) findViewById(R.id.patternHeader);
+//
+//		previewDialog = createPreviewDialog();
 
 		mDrawerToggle = new ActionBarDrawerToggle(this, leftDrawer,
 				R.drawable.ic_drawer, R.string.ambience_drawer_open,
@@ -1269,33 +1269,33 @@ public class AmbienceExterior extends Activity implements
 		leftDrawer.setDrawerListener(mDrawerToggle);
 	}
 
-	private Dialog createPreviewDialog() {
-		Dialog dialog = new Dialog(AmbienceExterior.this);
-		dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
-
-		// dialog.setTitle("New Contact");//sets the title of the dialog box
-
-		dialog.setContentView(R.layout.preview_dialog);// loads the layout we
-														// have
-
-		// dialog.getWindow().setFeatureInt(Window.FEATURE_CUSTOM_TITLE,
-		// R.layout.custom_title_dialog_box);// sets our custom
-
-		/*
-		 * Button closeButton=(Button)dialog.findViewById(R.id.dialog_close);
-		 * closeButton.setOnClickListener(new OnClickListener() {
-		 * 
-		 * @Override public void onClick(View arg0) { // TODO Auto-generated
-		 * method stub dialog.dismiss(); } });
-		 */
-
-		ImageView img = (ImageView) dialog.findViewById(R.id.previewImageView);
-
-		img.setScaleType(ScaleType.CENTER_INSIDE);
-		mAttacher = new PhotoViewAttacher(img);
-		return dialog;
-
-	}
+//	private Dialog createPreviewDialog() {
+//		Dialog dialog = new Dialog(AmbienceExterior.this);
+//		dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
+//
+//		// dialog.setTitle("New Contact");//sets the title of the dialog box
+//
+//		dialog.setContentView(R.layout.preview_dialog);// loads the layout we
+//														// have
+//
+//		// dialog.getWindow().setFeatureInt(Window.FEATURE_CUSTOM_TITLE,
+//		// R.layout.custom_title_dialog_box);// sets our custom
+//
+//		/*
+//		 * Button closeButton=(Button)dialog.findViewById(R.id.dialog_close);
+//		 * closeButton.setOnClickListener(new OnClickListener() {
+//		 *
+//		 * @Override public void onClick(View arg0) { // TODO Auto-generated
+//		 * method stub dialog.dismiss(); } });
+//		 */
+//
+//		ImageView img = (ImageView) dialog.findViewById(R.id.previewImageView);
+//
+//		img.setScaleType(ScaleType.CENTER_INSIDE);
+//		mAttacher = new PhotoViewAttacher(img);
+//		return dialog;
+//
+//	}
 
 	protected void loadTile() {
 		patternScrollView.removeAllViews();
