@@ -483,7 +483,7 @@ public class AmbienceLivingRoom01 extends Activity implements
 		// }
 	}
 
-	public void initialise() {
+	private void initialise() {
 
 		fillProgress = new ProgressDialog(AmbienceLivingRoom01.this);
 		fillProgress.setMessage("Rendering...");
@@ -695,7 +695,7 @@ public class AmbienceLivingRoom01 extends Activity implements
 		// }
 	}
 
-	public void screenShotPreview() {
+	private void screenShotPreview() {
 
 		layout.invalidate();
 		layout.setDrawingCacheEnabled(true);
@@ -735,9 +735,9 @@ public class AmbienceLivingRoom01 extends Activity implements
 
 	}
 
-	public String fileSaveName = "Default";
+	private String fileSaveName = "Default";
 
-	public void showFileNameDialog(final Bitmap previewBitmap) {
+	private void showFileNameDialog(final Bitmap previewBitmap) {
 		final Dialog fileNameDialog = new Dialog(AmbienceLivingRoom01.this);
 		fileNameDialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
 		fileNameDialog.setContentView(R.layout.enter_save_name);
@@ -808,7 +808,7 @@ public class AmbienceLivingRoom01 extends Activity implements
 		fileNameDialog.show();
 	}
 
-	public void showLocationDialog(String myDir) {
+	private void showLocationDialog(String myDir) {
 		final Dialog d = new Dialog(AmbienceLivingRoom01.this);
 		d.requestWindowFeature(Window.FEATURE_NO_TITLE);
 		d.setContentView(R.layout.saved_location);
@@ -828,7 +828,7 @@ public class AmbienceLivingRoom01 extends Activity implements
 		d.show();
 	}
 
-	public Bitmap fillTiles(Bitmap tile) {
+	private Bitmap fillTiles(Bitmap tile) {
 		// included only for example sake
 
 		int viewArea = GlobalVariables.getDrawArea(AmbienceLivingRoom01.this);
@@ -903,7 +903,7 @@ public class AmbienceLivingRoom01 extends Activity implements
 		return outputBitmap;
 	}
 
-	public Bitmap warpWall(Bitmap leftWallImage) {
+	private Bitmap warpWall(Bitmap leftWallImage) {
 
 		OpenCVLoader.initDebug();
 
@@ -1014,7 +1014,7 @@ public class AmbienceLivingRoom01 extends Activity implements
 	ProgressDialog fillProgress;
 	final float resolutionMultiplier = (float) 1.75;
 
-	public Bitmap warpFloor(Bitmap leftWallImage) {
+	private Bitmap warpFloor(Bitmap leftWallImage) {
 
 		OpenCVLoader.initDebug();
 

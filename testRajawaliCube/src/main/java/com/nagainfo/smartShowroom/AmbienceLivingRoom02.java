@@ -837,7 +837,7 @@ public class AmbienceLivingRoom02 extends Activity implements
 	private final float floorWidhtFinal = (float) 20;
 	private final float floorHeightFinal = (float) 20;
 
-	public Bitmap fillTilesOnWall(Bitmap tile) {
+	private Bitmap fillTilesOnWall(Bitmap tile) {
 		// included only for example sake
 
 		int viewArea = GlobalVariables.getDrawArea(AmbienceLivingRoom02.this);
@@ -910,7 +910,7 @@ public class AmbienceLivingRoom02 extends Activity implements
 		return outputBitmap;
 	}
 
-	public Bitmap fillTilesOnFloor(Bitmap tile) {
+	private Bitmap fillTilesOnFloor(Bitmap tile) {
 		// included only for example sake
 
 		int viewArea = GlobalVariables.getDrawArea(AmbienceLivingRoom02.this);
