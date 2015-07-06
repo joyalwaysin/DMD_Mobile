@@ -76,7 +76,7 @@ public class AmbienceKitchen extends Activity implements OnClickListener,
         PatternimgNameInterface {
 
     private Layer layerFloor, layerFurniture, layerCenterWall, layerRightWall,
-            layerCentreSlab, layerRoof, layerRightSlab;
+            layerCentreSlab,  layerRightSlab,layerRoof;
     private Layer layerFloorCabin01, layerFloorCabin02, layerFloorCabin03,
             layerFloorCabin04, layerFloorCabin05, layerFloorCabin06,
             layerFloorCabin07, layerFloorCabin08, layerFloorCabin09,
@@ -173,8 +173,8 @@ public class AmbienceKitchen extends Activity implements OnClickListener,
     private Boolean customEdit = false;
     private Boolean groovesOn = true;
 
-    Bitmap nothing;
-    RelativeLayout viewScreen;
+    private Bitmap nothing;
+    private RelativeLayout viewScreen;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
