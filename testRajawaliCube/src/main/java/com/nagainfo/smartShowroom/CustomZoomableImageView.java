@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import android.content.Context;
 import android.graphics.Canvas;

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:background="#e6e6e6"
+    android:orientation="vertical"
+    android:layout_marginRight="10dp"
+    android:gravity="center"
+    android:layout_gravity="center">
+
+    <LinearLayout
+        android:id="@+id/horLinContent"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:padding="1dp"
+        android:layout_weight="7">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center|center_vertical">
+
+            <ImageView
+                android:id="@+id/picture"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/dmd_bg1"
+                android:scaleType="fitXY"
+                android:adjustViewBounds="false" />
+
+            <ImageView
+                android:id="@+id/fav_icon"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:visibility="gone"
+                android:layout_gravity="center"
+                android:src="@drawable/dmd_fav_icon"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_above="@id/picture"
+                android:layout_margin="5dp"
+                android:clickable="true"/>
+
+            </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="#f9f2f2f2"
+        android:orientation="vertical"
+        android:padding="1dp"
+        android:layout_weight="3">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center|center_vertical">
+
+            <TextView
+                android:id="@+id/titelView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="1dp"
+                android:text="Name"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textSize="9sp"
+                android:textStyle="bold"
+                android:textColor="@color/itemTitleColor"
+                android:paddingLeft="2dp"
+                android:paddingRight="7dp" />
+
+            <ImageView
+                android:id="@+id/menu_ico"
+                android:layout_width="10dp"
+                android:layout_height="10dp"
+                android:visibility="visible"
+                android:background="?android:attr/selectableItemBackground"
+                android:src="@drawable/dmd_context_menu"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true" />
+
+            <TextView
+                android:id="@+id/datetimeView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/titelView"
+                android:textSize="7sp"
+                android:paddingLeft="2dp"
+                android:text="Time"
+                android:textColor="@color/itemTitleColor"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

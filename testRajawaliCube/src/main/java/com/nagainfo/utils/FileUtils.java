@@ -1,4 +1,4 @@
-package com.nagainfo.utils;
+package com.nagainfomob.utils;
 
 import java.io.File;
 import java.io.FileNotFoundException;

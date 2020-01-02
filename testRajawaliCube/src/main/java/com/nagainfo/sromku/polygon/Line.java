@@ -1,4 +1,4 @@
-package com.nagainfo.sromku.polygon;
+package com.nagainfomob.sromku.polygon;
 
 /**
  * Line is defined by starting point and ending point on 2D dimension.<br>

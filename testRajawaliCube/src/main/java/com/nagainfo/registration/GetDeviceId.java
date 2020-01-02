@@ -1,4 +1,4 @@
-package com.nagainfo.registration;
+package com.nagainfomob.registration;
 
 import android.content.Context;
 import android.net.wifi.WifiManager;
@@ -15,17 +15,19 @@ public class GetDeviceId {
 	public static String deviceID = null;
 
 	public static String getDeviceid(Context c) {
-		WifiManager m_wm = (WifiManager) c
-				.getSystemService(Context.WIFI_SERVICE);
-		try {
-			if (!m_wm.isWifiEnabled())
-				m_wm.setWifiEnabled(true);
+//		WifiManager m_wm = (WifiManager) c
+//				.getSystemService(Context.WIFI_SERVICE);
+//		try {
+//			if (!m_wm.isWifiEnabled())
+//				m_wm.setWifiEnabled(true);
+//
+//			deviceID = m_wm.getConnectionInfo().getMacAddress();
+//		} catch (Exception e) {
+//			Log.e("getDeviceId error!", e.getMessage());
+//		}
+//		return deviceID.replace(":", "");
 
-			deviceID = m_wm.getConnectionInfo().getMacAddress();
-		} catch (Exception e) {
-			Log.e("getDeviceId error!", e.getMessage());
-		}
-		return deviceID.replace(":", "");
+		return "Dummy";
 	}
 
 }

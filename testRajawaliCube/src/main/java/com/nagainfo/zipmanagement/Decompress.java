@@ -1,4 +1,4 @@
-package com.nagainfo.zipmanagement;
+package com.nagainfomob.zipmanagement;
 
 import android.util.Log; 
 import java.io.File; 

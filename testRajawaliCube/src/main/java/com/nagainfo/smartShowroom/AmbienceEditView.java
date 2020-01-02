@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -7,8 +7,8 @@ import java.util.Random;
 
 import org.xmlpull.v1.XmlSerializer;
 
-import com.nagainfo.database.DatabaseHandler;
-import com.nagainfo.smartShowroom.DrawView.LayoutDimensions;
+import com.nagainfomob.database.DatabaseHandler;
+import com.nagainfomob.smartShowroom.DrawView.LayoutDimensions;
 
 import android.R.drawable;
 import android.app.Dialog;

@@ -1,4 +1,4 @@
-package com.nagainfo.zipmanagement;
+package com.nagainfomob.zipmanagement;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;

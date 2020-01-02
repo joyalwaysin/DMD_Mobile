@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -21,7 +21,7 @@ import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
 
-import uk.co.senab.photoview.PhotoViewAttacher;
+import com.nagainfomob.photoview.PhotoViewAttacher;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
@@ -64,10 +64,10 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.nagainfo.database.DatabaseHandler;
-import com.nagainfo.slider.PatternGridAdapter;
-import com.nagainfo.smartShowroom.DrawView.LayoutDimensions;
-import com.nagainfo.update.PatternimgNameInterface;
+import com.nagainfomob.database.DatabaseHandler;
+import com.nagainfomob.slider.PatternGridAdapter;
+import com.nagainfomob.smartShowroom.DrawView.LayoutDimensions;
+import com.nagainfomob.update.PatternimgNameInterface;
 
 @SuppressLint("NewApi")
 public class PatternLibraryActivity extends Activity implements

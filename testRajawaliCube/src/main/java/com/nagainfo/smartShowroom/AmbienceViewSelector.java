@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import android.app.Activity;
 import android.content.Context;

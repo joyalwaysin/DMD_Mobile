@@ -1,4 +1,4 @@
-package com.nagainfo.update;
+package com.nagainfomob.update;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="android-zoom-view">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/testRajawaliCube/libs/android-zoom-view.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/libs/android-zoom-view.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

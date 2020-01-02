@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -20,14 +20,14 @@ import org.opencv.core.Size;
 import org.opencv.imgproc.Imgproc;
 import org.opencv.utils.Converters;
 
-import uk.co.senab.photoview.PhotoViewAttacher;
+import com.nagainfomob.photoview.PhotoViewAttacher;
 
-import com.nagainfo.database.DatabaseHandler;
-import com.nagainfo.slider.PatternGridAdapter;
-import com.nagainfo.smartShowroom.LayeredImageView.Layer;
-import com.nagainfo.sromku.polygon.Polygon;
-import com.nagainfo.update.PatternimgNameInterface;
-import com.nagainfo.utils.FileUtils;
+import com.nagainfomob.database.DatabaseHandler;
+import com.nagainfomob.slider.PatternGridAdapter;
+import com.nagainfomob.smartShowroom.LayeredImageView.Layer;
+import com.nagainfomob.sromku.polygon.Polygon;
+import com.nagainfomob.update.PatternimgNameInterface;
+import com.nagainfomob.utils.FileUtils;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -232,100 +232,100 @@ public class AmbienceBathroom extends Activity implements
 		final Polygon leftWallPolygon = Polygon
 				.Builder()
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								167 / scaleFactor, 80 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								171 / scaleFactor, 342 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(0 / scaleFactor,
+						new com.nagainfomob.sromku.polygon.Point(0 / scaleFactor,
 								363 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(0 / scaleFactor,
+						new com.nagainfomob.sromku.polygon.Point(0 / scaleFactor,
 								0 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(81 / scaleFactor,
+						new com.nagainfomob.sromku.polygon.Point(81 / scaleFactor,
 								0 / scaleFactor)).build();
 
 		final Polygon backWallPolygon = Polygon
 				.Builder()
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								171 / scaleFactor, 80 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								171 / scaleFactor, 342 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								443 / scaleFactor, 342 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								443 / scaleFactor, 432 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								699 / scaleFactor, 430 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								693 / scaleFactor, 78 / scaleFactor)).build();
 
 		final Polygon rightWallPolygon = Polygon
 				.Builder()
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								699 / scaleFactor, 430 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								693 / scaleFactor, 78 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								778 / scaleFactor, 0 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								883 / scaleFactor, 0 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								883 / scaleFactor, 532 / scaleFactor)).build();
 
 		final Polygon tubPolygon = Polygon
 				.Builder()
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(9 / scaleFactor,
+						new com.nagainfomob.sromku.polygon.Point(9 / scaleFactor,
 								370 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								434 / scaleFactor, 382 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								434 / scaleFactor, 510 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(10 / scaleFactor,
+						new com.nagainfomob.sromku.polygon.Point(10 / scaleFactor,
 								498 / scaleFactor)).build();
 
 		final Polygon floorPolygon = Polygon
 				.Builder()
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								704 / scaleFactor, 430 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								894 / scaleFactor, 532 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								894 / scaleFactor, 596 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(0 / scaleFactor,
+						new com.nagainfomob.sromku.polygon.Point(0 / scaleFactor,
 								596 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(0 / scaleFactor,
+						new com.nagainfomob.sromku.polygon.Point(0 / scaleFactor,
 								502 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(9 / scaleFactor,
+						new com.nagainfomob.sromku.polygon.Point(9 / scaleFactor,
 								498 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								436 / scaleFactor, 510 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								450 / scaleFactor, 433 / scaleFactor)).build();
 
 		layout.setOnTouchListener(new OnTouchListener() {
@@ -333,7 +333,7 @@ public class AmbienceBathroom extends Activity implements
 			@Override
 			public boolean onTouch(View v, MotionEvent event) {
 				// TODO Auto-generated method stub
-				com.nagainfo.sromku.polygon.Point touch = new com.nagainfo.sromku.polygon.Point(
+				com.nagainfomob.sromku.polygon.Point touch = new com.nagainfomob.sromku.polygon.Point(
 						event.getX(), event.getY());
 
 				switch (event.getAction() & MotionEvent.ACTION_MASK) {

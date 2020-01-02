@@ -1,10 +1,10 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import java.text.BreakIterator;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import com.nagainfo.database.DatabaseHandler;
+import com.nagainfomob.database.DatabaseHandler;
 
 import android.app.Activity;
 import android.app.Dialog;

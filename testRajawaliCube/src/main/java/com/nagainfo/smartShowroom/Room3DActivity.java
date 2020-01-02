@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -19,8 +19,8 @@ import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
 import org.xmlpull.v1.XmlSerializer;
 
-import com.nagainfo.database.DatabaseHandler;
-import com.nagainfo.smartShowroom.DrawView.LayoutDimensions;
+import com.nagainfomob.database.DatabaseHandler;
+import com.nagainfomob.smartShowroom.DrawView.LayoutDimensions;
 
 import rajawali.Camera;
 import rajawali.Object3D;
@@ -129,15 +129,22 @@ public class Room3DActivity extends RajawaliActivity implements
 				R.drawable.actionbar_bg));
 		bar.setTitle(title);
 		Intent intent = getIntent();
-		// try {
-		String l = intent.getStringExtra("dimenA");
+
+		/*String l = intent.getStringExtra("dimenA");
 		length = Float.parseFloat(l);
 
 		String w = intent.getStringExtra("dimenB");
 		width = Float.parseFloat(w);
 
 		String h = intent.getStringExtra("wallHeight");
-		height = Float.parseFloat(h);
+		height = Float.parseFloat(h);*/
+
+		length = 20;
+		width = 20;
+		height = 20;
+
+//		Log.d("test", length+"_"+width+"_"+height);
+
 		if (intent.getExtras().containsKey("OBJECTS")) {
 			objectStatus = intent.getStringExtra("OBJECTS");
 			invalidateOptionsMenu();

@@ -1,4 +1,4 @@
-package com.nagainfo.sromku.polygon;
+package com.nagainfomob.sromku.polygon;
 
 /**
  * Point on 2D landscape

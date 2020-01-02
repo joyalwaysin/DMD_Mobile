@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/openCVLibrary2410/openCVLibrary2410.iml" filepath="$PROJECT_DIR$/openCVLibrary2410/openCVLibrary2410.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DisplayMyDesign.iml" filepath="$PROJECT_DIR$/DisplayMyDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" filepath="$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" />
       <module fileurl="file://$PROJECT_DIR$/rajawali/rajawali.iml" filepath="$PROJECT_DIR$/rajawali/rajawali.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testRajawaliCube.iml" filepath="$PROJECT_DIR$/testRajawaliCube.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testRajawaliCube/testRajawaliCube-testRajawaliCube.iml" filepath="$PROJECT_DIR$/testRajawaliCube/testRajawaliCube-testRajawaliCube.iml" />
     </modules>
   </component>
 </project>

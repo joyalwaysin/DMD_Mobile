@@ -1,4 +1,4 @@
-package com.nagainfo.update;
+package com.nagainfomob.update;
 
 import java.io.InputStream;
 import java.io.OutputStream;

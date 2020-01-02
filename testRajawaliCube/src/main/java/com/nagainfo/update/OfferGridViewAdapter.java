@@ -1,4 +1,4 @@
-package com.nagainfo.update;
+package com.nagainfomob.update;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -18,8 +18,8 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.nagainfo.smartShowroom.GlobalVariables;
-import com.nagainfo.smartShowroom.R;
+import com.nagainfomob.smartShowroom.GlobalVariables;
+import com.nagainfomob.smartShowroom.R;
 
 public class OfferGridViewAdapter extends BaseAdapter {
 

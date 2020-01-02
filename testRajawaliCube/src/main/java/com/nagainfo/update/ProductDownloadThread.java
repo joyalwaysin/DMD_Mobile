@@ -1,4 +1,4 @@
-package com.nagainfo.update;
+package com.nagainfomob.update;
 
 import java.io.BufferedInputStream;
 import java.io.File;
@@ -20,16 +20,16 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.widget.Toast;
 
-import com.nagainfo.database.DatabaseHandler;
-import com.nagainfo.smartShowroom.GlobalVariables;
-import com.nagainfo.smartShowroom.XMLParser;
+import com.nagainfomob.database.DatabaseHandler;
+import com.nagainfomob.smartShowroom.GlobalVariables;
+import com.nagainfomob.smartShowroom.XMLParser;
 
 public class ProductDownloadThread implements Runnable {
 
 	private ArrayList<HashMap<String, String>> filePath;
 	private Activity activity;
 	private LayoutInflater inflater = null;
-	private com.nagainfo.update.ImageLoader imageLoader;
+	private com.nagainfomob.update.ImageLoader imageLoader;
 
 	private static final String KEY_ITEM = "data";
 	private static final String KEY_BRAND_ID = "brand_id";

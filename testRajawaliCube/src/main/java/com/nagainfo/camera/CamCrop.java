@@ -1,4 +1,4 @@
-package com.nagainfo.camera;
+package com.nagainfomob.camera;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -50,11 +50,11 @@ import android.widget.Toast;
 import android.widget.ToggleButton;
 
 import com.edmodo.cropper.CropImageView;
-import com.nagainfo.database.DatabaseHandler;
-import com.nagainfo.smartShowroom.AlbumAcivity;
-import com.nagainfo.smartShowroom.FileExplore;
-import com.nagainfo.smartShowroom.GlobalVariables;
-import com.nagainfo.smartShowroom.R;
+import com.nagainfomob.database.DatabaseHandler;
+import com.nagainfomob.smartShowroom.AlbumAcivity;
+import com.nagainfomob.smartShowroom.FileExplore;
+import com.nagainfomob.smartShowroom.GlobalVariables;
+import com.nagainfomob.smartShowroom.R;
 
 public class CamCrop extends Activity implements OnTouchListener {
 

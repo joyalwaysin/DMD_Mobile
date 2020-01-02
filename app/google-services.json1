@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "511799049568",
+    "firebase_url": "https://android-push-142709.firebaseio.com",
+    "project_id": "android-push-142709",
+    "storage_bucket": "android-push-142709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511799049568:android:56c06fea93ee4426",
+        "android_client_info": {
+          "package_name": "com.nagainfomob.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511799049568-oij77ong4nfdkf8u9o4jsssc0im5iclt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuD0rxYjdE7xZmVx6cwLExn2zz16yu8GA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

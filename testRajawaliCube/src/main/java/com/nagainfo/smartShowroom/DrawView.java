@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -30,7 +30,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.nagainfo.database.DatabaseHandler;
+import com.nagainfomob.database.DatabaseHandler;
 
 import org.xmlpull.v1.XmlSerializer;
 

@@ -1,4 +1,4 @@
-package com.nagainfo.update;
+package com.nagainfomob.update;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -7,8 +7,8 @@ import java.util.Map;
 import java.util.zip.Inflater;
 
 
-import com.nagainfo.smartShowroom.GlobalVariables;
-import com.nagainfo.smartShowroom.R;
+import com.nagainfomob.smartShowroom.GlobalVariables;
+import com.nagainfomob.smartShowroom.R;
 
 
 
@@ -29,7 +29,7 @@ public class LazyProductAdapter extends BaseAdapter {
 	private ArrayList<HashMap<String, String>> filePath;
 	private Activity activity;
 	private LayoutInflater inflater = null;
-	private com.nagainfo.update.ImageLoader imageLoader;
+	private com.nagainfomob.update.ImageLoader imageLoader;
 
 	private static final String KEY_PRO_ID = "product_id";
 	private static final String KEY_PRO_NAME = "product_name";

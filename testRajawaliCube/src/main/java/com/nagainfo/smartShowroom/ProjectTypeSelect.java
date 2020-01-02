@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -15,9 +15,9 @@ import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
 
-import com.nagainfo.registration.GetDeviceId;
-import com.nagainfo.registration.SessionManager;
-import com.nagainfo.smartShowroom.HomeActivity.ActivateApp;
+import com.nagainfomob.registration.GetDeviceId;
+import com.nagainfomob.registration.SessionManager;
+import com.nagainfomob.smartShowroom.HomeActivity.ActivateApp;
 
 import android.app.Activity;
 import android.app.Dialog;

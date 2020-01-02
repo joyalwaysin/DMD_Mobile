@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 public interface ScreenshotListener {
 	public static int VIEW_FRONT = 1;

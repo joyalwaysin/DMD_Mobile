@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -43,12 +43,12 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.nagainfo.database.DatabaseHandler;
-import com.nagainfo.slider.PatternGridAdapter;
-import com.nagainfo.smartShowroom.LayeredImageView.Layer;
-import com.nagainfo.sromku.polygon.Polygon;
-import com.nagainfo.update.PatternimgNameInterface;
-import com.nagainfo.utils.FileUtils;
+import com.nagainfomob.database.DatabaseHandler;
+import com.nagainfomob.slider.PatternGridAdapter;
+import com.nagainfomob.smartShowroom.LayeredImageView.Layer;
+import com.nagainfomob.sromku.polygon.Polygon;
+import com.nagainfomob.update.PatternimgNameInterface;
+import com.nagainfomob.utils.FileUtils;
 
 import org.opencv.android.OpenCVLoader;
 import org.opencv.android.Utils;
@@ -70,7 +70,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import uk.co.senab.photoview.PhotoViewAttacher;
+import com.nagainfomob.photoview.PhotoViewAttacher;
 
 public class AmbienceKitchen extends Activity implements OnClickListener,
         PatternimgNameInterface {
@@ -530,187 +530,187 @@ public class AmbienceKitchen extends Activity implements OnClickListener,
         final Polygon slabPolygon = Polygon
                 .Builder()
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 116 / scaleFactor, 271 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 560 / scaleFactor, 271 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 785 / scaleFactor, 340 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 785 / scaleFactor, 394 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 716 / scaleFactor, 394 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 499 / scaleFactor, 290 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(86 / scaleFactor,
+                        new com.nagainfomob.sromku.polygon.Point(86 / scaleFactor,
                                 288 / scaleFactor)).build();
 
         final Polygon floorPolygon = Polygon
                 .Builder()
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(0 / scaleFactor,
+                        new com.nagainfomob.sromku.polygon.Point(0 / scaleFactor,
                                 431 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 509 / scaleFactor, 431 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 644 / scaleFactor, 586 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(0 / scaleFactor,
+                        new com.nagainfomob.sromku.polygon.Point(0 / scaleFactor,
                                 586 / scaleFactor)).build();
 
         final Polygon centreWallPolygon = Polygon
                 .Builder()
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(0 / scaleFactor,
+                        new com.nagainfomob.sromku.polygon.Point(0 / scaleFactor,
                                 67 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(0 / scaleFactor,
+                        new com.nagainfomob.sromku.polygon.Point(0 / scaleFactor,
                                 77 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(86 / scaleFactor,
+                        new com.nagainfomob.sromku.polygon.Point(86 / scaleFactor,
                                 77 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 104 / scaleFactor, 85 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 195 / scaleFactor, 85 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 205 / scaleFactor, 97 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 205 / scaleFactor, 210 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 118 / scaleFactor, 210 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 116 / scaleFactor, 271 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 560 / scaleFactor, 271 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 560 / scaleFactor, 214 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 289 / scaleFactor, 210 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 290 / scaleFactor, 86 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 235 / scaleFactor, 88 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 560 / scaleFactor, 77 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 560 / scaleFactor, 67 / scaleFactor)).build();
 
         final Polygon rightWallPolygon = Polygon
                 .Builder()
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 560 / scaleFactor, 214 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 560 / scaleFactor, 271 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 785 / scaleFactor, 388 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 785 / scaleFactor, 233 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 684 / scaleFactor, 223 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 680 / scaleFactor, 192 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 613 / scaleFactor, 192 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 613 / scaleFactor, 215 / scaleFactor)).build();
 
         final Polygon cabinPolygon01 = Polygon
                 .Builder()
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(0 / scaleFactor,
+                        new com.nagainfomob.sromku.polygon.Point(0 / scaleFactor,
                                 85 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 196 / scaleFactor, 94 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 194 / scaleFactor, 202 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(82 / scaleFactor,
+                        new com.nagainfomob.sromku.polygon.Point(82 / scaleFactor,
                                 205 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(82 / scaleFactor,
+                        new com.nagainfomob.sromku.polygon.Point(82 / scaleFactor,
                                 294 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 496 / scaleFactor, 298 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 706 / scaleFactor, 400 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 706 / scaleFactor, 586 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 667 / scaleFactor, 580 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 503 / scaleFactor, 413 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 177 / scaleFactor, 409 / scaleFactor)).build();
 
         final Polygon cabinPolygon02 = Polygon
                 .Builder()
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 295 / scaleFactor, 94 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 534 / scaleFactor, 98 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 784 / scaleFactor, 0 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 784 / scaleFactor, 217 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 691 / scaleFactor, 211 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 692 / scaleFactor, 182 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 608 / scaleFactor, 185 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 610 / scaleFactor, 203 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 542 / scaleFactor, 203 / scaleFactor))
                 .addVertex(
-                        new com.nagainfo.sromku.polygon.Point(
+                        new com.nagainfomob.sromku.polygon.Point(
                                 295 / scaleFactor, 202 / scaleFactor)).build();
 
         layout.setOnTouchListener(new OnTouchListener() {
@@ -719,7 +719,7 @@ public class AmbienceKitchen extends Activity implements OnClickListener,
             public boolean onTouch(View v, MotionEvent event) {
                 // TODO Auto-generated method stub
 
-                com.nagainfo.sromku.polygon.Point touch = new com.nagainfo.sromku.polygon.Point(
+                com.nagainfomob.sromku.polygon.Point touch = new com.nagainfomob.sromku.polygon.Point(
                         event.getX(), event.getY());
 
                 switch (event.getAction() & MotionEvent.ACTION_MASK) {

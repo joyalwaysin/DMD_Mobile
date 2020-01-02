@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -41,9 +41,9 @@ import android.widget.SearchView;
 import android.widget.SearchView.OnSuggestionListener;
 import android.widget.Toast;
 
-import com.nagainfo.database.DatabaseHandler;
-import com.nagainfo.slider.PatternGridAdapter;
-import com.nagainfo.slider.PatternGridAdapter1;
+import com.nagainfomob.database.DatabaseHandler;
+import com.nagainfomob.slider.PatternGridAdapter;
+import com.nagainfomob.slider.PatternGridAdapter1;
 
 public class ViewPatternActivity extends Activity implements OnItemClickListener {
 

@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 public final class R {
     public static final class anim {
@@ -2742,33 +2742,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.nagainfo.smartShowroom:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.nagainfo.smartShowroom:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.nagainfo.smartShowroom:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.nagainfo.smartShowroom:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.nagainfo.smartShowroom:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.nagainfo.smartShowroom:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.nagainfo.smartShowroom:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.nagainfo.smartShowroom:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.nagainfo.smartShowroom:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.nagainfo.smartShowroom:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.nagainfo.smartShowroom:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.nagainfo.smartShowroom:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.nagainfo.smartShowroom:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.nagainfo.smartShowroom:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.nagainfo.smartShowroom:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.nagainfo.smartShowroom:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.nagainfo.smartShowroom:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.nagainfo.smartShowroom:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.nagainfo.smartShowroom:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.nagainfo.smartShowroom:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.nagainfo.smartShowroom:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.nagainfo.smartShowroom:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.nagainfo.smartShowroom:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.nagainfo.smartShowroom:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.nagainfo.smartShowroom:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.nagainfo.smartShowroom:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.nagainfo.smartShowroom:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.nagainfomob.smartShowroom:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.nagainfomob.smartShowroom:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.nagainfomob.smartShowroom:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.nagainfomob.smartShowroom:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.nagainfomob.smartShowroom:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.nagainfomob.smartShowroom:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.nagainfomob.smartShowroom:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.nagainfomob.smartShowroom:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.nagainfomob.smartShowroom:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.nagainfomob.smartShowroom:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.nagainfomob.smartShowroom:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.nagainfomob.smartShowroom:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.nagainfomob.smartShowroom:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.nagainfomob.smartShowroom:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.nagainfomob.smartShowroom:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.nagainfomob.smartShowroom:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.nagainfomob.smartShowroom:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.nagainfomob.smartShowroom:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.nagainfomob.smartShowroom:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.nagainfomob.smartShowroom:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.nagainfomob.smartShowroom:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.nagainfomob.smartShowroom:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.nagainfomob.smartShowroom:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.nagainfomob.smartShowroom:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.nagainfomob.smartShowroom:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.nagainfomob.smartShowroom:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.nagainfomob.smartShowroom:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -2808,17 +2808,17 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f010084
         };
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#background}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:background
+          @attr name com.nagainfomob.smartShowroom:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2826,11 +2826,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.nagainfo.smartShowroom:backgroundSplit
+          @attr name com.nagainfomob.smartShowroom:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2838,11 +2838,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.nagainfo.smartShowroom:backgroundStacked
+          @attr name com.nagainfomob.smartShowroom:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2854,11 +2854,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:contentInsetEnd
+          @attr name com.nagainfomob.smartShowroom:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2870,11 +2870,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:contentInsetLeft
+          @attr name com.nagainfomob.smartShowroom:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2886,11 +2886,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:contentInsetRight
+          @attr name com.nagainfomob.smartShowroom:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2902,21 +2902,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:contentInsetStart
+          @attr name com.nagainfomob.smartShowroom:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:customNavigationLayout
+          @attr name com.nagainfomob.smartShowroom:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2934,21 +2934,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.nagainfo.smartShowroom:displayOptions
+          @attr name com.nagainfomob.smartShowroom:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:divider
+          @attr name com.nagainfomob.smartShowroom:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2960,11 +2960,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:elevation
+          @attr name com.nagainfomob.smartShowroom:elevation
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#height}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2976,11 +2976,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:height
+          @attr name com.nagainfomob.smartShowroom:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2990,51 +2990,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:hideOnContentScroll
+          @attr name com.nagainfomob.smartShowroom:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:homeAsUpIndicator
+          @attr name com.nagainfomob.smartShowroom:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:homeLayout
+          @attr name com.nagainfomob.smartShowroom:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:icon
+          @attr name com.nagainfomob.smartShowroom:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:indeterminateProgressStyle
+          @attr name com.nagainfomob.smartShowroom:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3046,21 +3046,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:itemPadding
+          @attr name com.nagainfomob.smartShowroom:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:logo
+          @attr name com.nagainfomob.smartShowroom:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3074,21 +3074,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.nagainfo.smartShowroom:navigationMode
+          @attr name com.nagainfomob.smartShowroom:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:popupTheme
+          @attr name com.nagainfomob.smartShowroom:popupTheme
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3100,21 +3100,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:progressBarPadding
+          @attr name com.nagainfomob.smartShowroom:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:progressBarStyle
+          @attr name com.nagainfomob.smartShowroom:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3124,21 +3124,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:subtitle
+          @attr name com.nagainfomob.smartShowroom:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:subtitleTextStyle
+          @attr name com.nagainfomob.smartShowroom:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#title}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3148,17 +3148,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:title
+          @attr name com.nagainfomob.smartShowroom:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:titleTextStyle
+          @attr name com.nagainfomob.smartShowroom:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -3210,12 +3210,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.nagainfo.smartShowroom:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.nagainfo.smartShowroom:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.nagainfo.smartShowroom:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.nagainfo.smartShowroom:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.nagainfo.smartShowroom:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.nagainfo.smartShowroom:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.nagainfomob.smartShowroom:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.nagainfomob.smartShowroom:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.nagainfomob.smartShowroom:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.nagainfomob.smartShowroom:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.nagainfomob.smartShowroom:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.nagainfomob.smartShowroom:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3229,17 +3229,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#background}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:background
+          @attr name com.nagainfomob.smartShowroom:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3247,21 +3247,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.nagainfo.smartShowroom:backgroundSplit
+          @attr name com.nagainfomob.smartShowroom:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:closeItemLayout
+          @attr name com.nagainfomob.smartShowroom:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#height}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3273,27 +3273,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:height
+          @attr name com.nagainfomob.smartShowroom:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:subtitleTextStyle
+          @attr name com.nagainfomob.smartShowroom:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:titleTextStyle
+          @attr name com.nagainfomob.smartShowroom:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -3302,8 +3302,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.nagainfo.smartShowroom:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.nagainfo.smartShowroom:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.nagainfomob.smartShowroom:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.nagainfomob.smartShowroom:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -3312,17 +3312,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:expandActivityOverflowButtonDrawable
+          @attr name com.nagainfomob.smartShowroom:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -3332,7 +3332,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:initialActivityCount
+          @attr name com.nagainfomob.smartShowroom:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -3342,11 +3342,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.nagainfo.smartShowroom:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.nagainfo.smartShowroom:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.nagainfo.smartShowroom:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.nagainfo.smartShowroom:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.nagainfo.smartShowroom:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.nagainfomob.smartShowroom:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.nagainfomob.smartShowroom:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.nagainfomob.smartShowroom:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.nagainfomob.smartShowroom:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.nagainfomob.smartShowroom:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -3366,53 +3366,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:buttonPanelSideLayout
+          @attr name com.nagainfomob.smartShowroom:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:listItemLayout
+          @attr name com.nagainfomob.smartShowroom:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:listLayout
+          @attr name com.nagainfomob.smartShowroom:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:multiChoiceItemLayout
+          @attr name com.nagainfomob.smartShowroom:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:singleChoiceItemLayout
+          @attr name com.nagainfomob.smartShowroom:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatTextView.
@@ -3422,7 +3422,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.nagainfo.smartShowroom:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.nagainfomob.smartShowroom:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -3437,14 +3437,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.nagainfo.smartShowroom:textAllCaps
+          @attr name com.nagainfomob.smartShowroom:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a CameraBridgeViewBase.
@@ -3453,8 +3453,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CameraBridgeViewBase_camera_id com.nagainfo.smartShowroom:camera_id}</code></td><td></td></tr>
-           <tr><td><code>{@link #CameraBridgeViewBase_show_fps com.nagainfo.smartShowroom:show_fps}</code></td><td></td></tr>
+           <tr><td><code>{@link #CameraBridgeViewBase_camera_id com.nagainfomob.smartShowroom:camera_id}</code></td><td></td></tr>
+           <tr><td><code>{@link #CameraBridgeViewBase_show_fps com.nagainfomob.smartShowroom:show_fps}</code></td><td></td></tr>
            </table>
            @see #CameraBridgeViewBase_camera_id
            @see #CameraBridgeViewBase_show_fps
@@ -3463,7 +3463,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010025, 0x7f010026
         };
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#camera_id}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#camera_id}
           attribute's value can be found in the {@link #CameraBridgeViewBase} array.
 
 
@@ -3483,11 +3483,11 @@ containing a value of this type.
 <tr><td><code>back</code></td><td>99</td><td></td></tr>
 <tr><td><code>front</code></td><td>98</td><td></td></tr>
 </table>
-          @attr name com.nagainfo.smartShowroom:camera_id
+          @attr name com.nagainfomob.smartShowroom:camera_id
         */
         public static final int CameraBridgeViewBase_camera_id = 1;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#show_fps}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#show_fps}
           attribute's value can be found in the {@link #CameraBridgeViewBase} array.
 
 
@@ -3497,7 +3497,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:show_fps
+          @attr name com.nagainfomob.smartShowroom:show_fps
         */
         public static final int CameraBridgeViewBase_show_fps = 0;
         /** Attributes that can be used with a CropImageView.
@@ -3506,11 +3506,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CropImageView_aspectRatioX com.nagainfo.smartShowroom:aspectRatioX}</code></td><td></td></tr>
-           <tr><td><code>{@link #CropImageView_aspectRatioY com.nagainfo.smartShowroom:aspectRatioY}</code></td><td></td></tr>
-           <tr><td><code>{@link #CropImageView_fixAspectRatio com.nagainfo.smartShowroom:fixAspectRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #CropImageView_guidelines com.nagainfo.smartShowroom:guidelines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CropImageView_imageResource com.nagainfo.smartShowroom:imageResource}</code></td><td></td></tr>
+           <tr><td><code>{@link #CropImageView_aspectRatioX com.nagainfomob.smartShowroom:aspectRatioX}</code></td><td></td></tr>
+           <tr><td><code>{@link #CropImageView_aspectRatioY com.nagainfomob.smartShowroom:aspectRatioY}</code></td><td></td></tr>
+           <tr><td><code>{@link #CropImageView_fixAspectRatio com.nagainfomob.smartShowroom:fixAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #CropImageView_guidelines com.nagainfomob.smartShowroom:guidelines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CropImageView_imageResource com.nagainfomob.smartShowroom:imageResource}</code></td><td></td></tr>
            </table>
            @see #CropImageView_aspectRatioX
            @see #CropImageView_aspectRatioY
@@ -3523,7 +3523,7 @@ containing a value of this type.
             0x7f01002b
         };
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#aspectRatioX}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#aspectRatioX}
           attribute's value can be found in the {@link #CropImageView} array.
 
 
@@ -3533,11 +3533,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:aspectRatioX
+          @attr name com.nagainfomob.smartShowroom:aspectRatioX
         */
         public static final int CropImageView_aspectRatioX = 2;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#aspectRatioY}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#aspectRatioY}
           attribute's value can be found in the {@link #CropImageView} array.
 
 
@@ -3547,11 +3547,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:aspectRatioY
+          @attr name com.nagainfomob.smartShowroom:aspectRatioY
         */
         public static final int CropImageView_aspectRatioY = 3;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#fixAspectRatio}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#fixAspectRatio}
           attribute's value can be found in the {@link #CropImageView} array.
 
 
@@ -3561,11 +3561,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:fixAspectRatio
+          @attr name com.nagainfomob.smartShowroom:fixAspectRatio
         */
         public static final int CropImageView_fixAspectRatio = 1;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#guidelines}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#guidelines}
           attribute's value can be found in the {@link #CropImageView} array.
 
 
@@ -3579,17 +3579,17 @@ containing a value of this type.
 <tr><td><code>onTouch</code></td><td>1</td><td></td></tr>
 <tr><td><code>off</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.nagainfo.smartShowroom:guidelines
+          @attr name com.nagainfomob.smartShowroom:guidelines
         */
         public static final int CropImageView_guidelines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#imageResource}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#imageResource}
           attribute's value can be found in the {@link #CropImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:imageResource
+          @attr name com.nagainfomob.smartShowroom:imageResource
         */
         public static final int CropImageView_imageResource = 4;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -3598,14 +3598,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barSize com.nagainfo.smartShowroom:barSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.nagainfo.smartShowroom:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.nagainfo.smartShowroom:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.nagainfo.smartShowroom:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize com.nagainfo.smartShowroom:middleBarArrowSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.nagainfo.smartShowroom:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.nagainfo.smartShowroom:thickness}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize com.nagainfo.smartShowroom:topBottomBarArrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barSize com.nagainfomob.smartShowroom:barSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.nagainfomob.smartShowroom:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.nagainfomob.smartShowroom:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.nagainfomob.smartShowroom:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize com.nagainfomob.smartShowroom:middleBarArrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.nagainfomob.smartShowroom:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.nagainfomob.smartShowroom:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize com.nagainfomob.smartShowroom:topBottomBarArrowSize}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_barSize
            @see #DrawerArrowToggle_color
@@ -3621,7 +3621,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010030, 0x7f010031, 0x7f010032, 0x7f010033
         };
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#barSize}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#barSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3633,11 +3633,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:barSize
+          @attr name com.nagainfomob.smartShowroom:barSize
         */
         public static final int DrawerArrowToggle_barSize = 6;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#color}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3648,11 +3648,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:color
+          @attr name com.nagainfomob.smartShowroom:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3664,11 +3664,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:drawableSize
+          @attr name com.nagainfomob.smartShowroom:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3680,11 +3680,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:gapBetweenBars
+          @attr name com.nagainfomob.smartShowroom:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#middleBarArrowSize}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#middleBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3696,11 +3696,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:middleBarArrowSize
+          @attr name com.nagainfomob.smartShowroom:middleBarArrowSize
         */
         public static final int DrawerArrowToggle_middleBarArrowSize = 5;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3710,11 +3710,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:spinBars
+          @attr name com.nagainfomob.smartShowroom:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3726,11 +3726,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:thickness
+          @attr name com.nagainfomob.smartShowroom:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#topBottomBarArrowSize}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#topBottomBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3742,7 +3742,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:topBottomBarArrowSize
+          @attr name com.nagainfomob.smartShowroom:topBottomBarArrowSize
         */
         public static final int DrawerArrowToggle_topBottomBarArrowSize = 4;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -3756,10 +3756,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.nagainfo.smartShowroom:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.nagainfo.smartShowroom:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.nagainfo.smartShowroom:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.nagainfo.smartShowroom:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.nagainfomob.smartShowroom:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.nagainfomob.smartShowroom:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.nagainfomob.smartShowroom:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.nagainfomob.smartShowroom:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -3807,17 +3807,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:divider
+          @attr name com.nagainfomob.smartShowroom:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3829,11 +3829,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:dividerPadding
+          @attr name com.nagainfomob.smartShowroom:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3843,11 +3843,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:measureWithLargestChild
+          @attr name com.nagainfomob.smartShowroom:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3862,7 +3862,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.nagainfo.smartShowroom:showDividers
+          @attr name com.nagainfomob.smartShowroom:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -4001,9 +4001,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.nagainfo.smartShowroom:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.nagainfo.smartShowroom:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.nagainfo.smartShowroom:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.nagainfomob.smartShowroom:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.nagainfomob.smartShowroom:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.nagainfomob.smartShowroom:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -4017,7 +4017,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.nagainfo.smartShowroom:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.nagainfomob.smartShowroom:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -4045,17 +4045,17 @@ containing a value of this type.
             0x7f01003a
         };
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionLayout
+          @attr name com.nagainfomob.smartShowroom:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4065,11 +4065,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:actionProviderClass
+          @attr name com.nagainfomob.smartShowroom:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4079,7 +4079,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:actionViewClass
+          @attr name com.nagainfomob.smartShowroom:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -4161,7 +4161,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4177,7 +4177,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.nagainfo.smartShowroom:showAsAction
+          @attr name com.nagainfomob.smartShowroom:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -4193,7 +4193,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.nagainfo.smartShowroom:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.nagainfomob.smartShowroom:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -4251,7 +4251,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -4261,7 +4261,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:preserveIconSpacing
+          @attr name com.nagainfomob.smartShowroom:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
@@ -4271,7 +4271,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.nagainfo.smartShowroom:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.nagainfomob.smartShowroom:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -4286,7 +4286,7 @@ containing a value of this type.
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -4296,7 +4296,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:overlapAnchor
+          @attr name com.nagainfomob.smartShowroom:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -4305,7 +4305,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.nagainfo.smartShowroom:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.nagainfomob.smartShowroom:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -4313,7 +4313,7 @@ containing a value of this type.
             0x7f01003d
         };
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -4323,7 +4323,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:state_above_anchor
+          @attr name com.nagainfomob.smartShowroom:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a SearchView.
@@ -4336,19 +4336,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.nagainfo.smartShowroom:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.nagainfo.smartShowroom:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.nagainfo.smartShowroom:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.nagainfo.smartShowroom:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.nagainfo.smartShowroom:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.nagainfo.smartShowroom:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.nagainfo.smartShowroom:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.nagainfo.smartShowroom:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.nagainfo.smartShowroom:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.nagainfo.smartShowroom:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.nagainfo.smartShowroom:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.nagainfo.smartShowroom:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.nagainfo.smartShowroom:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.nagainfomob.smartShowroom:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.nagainfomob.smartShowroom:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.nagainfomob.smartShowroom:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.nagainfomob.smartShowroom:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.nagainfomob.smartShowroom:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.nagainfomob.smartShowroom:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.nagainfomob.smartShowroom:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.nagainfomob.smartShowroom:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.nagainfomob.smartShowroom:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.nagainfomob.smartShowroom:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.nagainfomob.smartShowroom:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.nagainfomob.smartShowroom:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.nagainfomob.smartShowroom:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -4400,27 +4400,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:closeIcon
+          @attr name com.nagainfomob.smartShowroom:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:commitIcon
+          @attr name com.nagainfomob.smartShowroom:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4430,21 +4430,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:defaultQueryHint
+          @attr name com.nagainfomob.smartShowroom:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:goIcon
+          @attr name com.nagainfomob.smartShowroom:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4454,31 +4454,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:iconifiedByDefault
+          @attr name com.nagainfomob.smartShowroom:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:layout
+          @attr name com.nagainfomob.smartShowroom:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:queryBackground
+          @attr name com.nagainfomob.smartShowroom:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4488,57 +4488,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:queryHint
+          @attr name com.nagainfomob.smartShowroom:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:searchHintIcon
+          @attr name com.nagainfomob.smartShowroom:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:searchIcon
+          @attr name com.nagainfomob.smartShowroom:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:submitBackground
+          @attr name com.nagainfomob.smartShowroom:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:suggestionRowLayout
+          @attr name com.nagainfomob.smartShowroom:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:voiceIcon
+          @attr name com.nagainfomob.smartShowroom:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Spinner.
@@ -4554,10 +4554,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.nagainfo.smartShowroom:disableChildrenWhenDisabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupPromptView com.nagainfo.smartShowroom:popupPromptView}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_prompt com.nagainfo.smartShowroom:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spinnerMode com.nagainfo.smartShowroom:spinnerMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.nagainfomob.smartShowroom:disableChildrenWhenDisabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupPromptView com.nagainfomob.smartShowroom:popupPromptView}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_prompt com.nagainfomob.smartShowroom:prompt}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spinnerMode com.nagainfomob.smartShowroom:spinnerMode}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_background
            @see #Spinner_android_dropDownHorizontalOffset
@@ -4619,7 +4619,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_popupBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#disableChildrenWhenDisabled}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#disableChildrenWhenDisabled}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -4629,31 +4629,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:disableChildrenWhenDisabled
+          @attr name com.nagainfomob.smartShowroom:disableChildrenWhenDisabled
         */
         public static final int Spinner_disableChildrenWhenDisabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#popupPromptView}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#popupPromptView}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:popupPromptView
+          @attr name com.nagainfomob.smartShowroom:popupPromptView
         */
         public static final int Spinner_popupPromptView = 9;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#prompt}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#prompt}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:prompt
+          @attr name com.nagainfomob.smartShowroom:prompt
         */
         public static final int Spinner_prompt = 7;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#spinnerMode}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#spinnerMode}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -4666,7 +4666,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>dialog</code></td><td>0</td><td></td></tr>
 <tr><td><code>dropdown</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.nagainfo.smartShowroom:spinnerMode
+          @attr name com.nagainfomob.smartShowroom:spinnerMode
         */
         public static final int Spinner_spinnerMode = 8;
         /** Attributes that can be used with a SwitchCompat.
@@ -4678,13 +4678,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.nagainfo.smartShowroom:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.nagainfo.smartShowroom:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.nagainfo.smartShowroom:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.nagainfo.smartShowroom:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.nagainfo.smartShowroom:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.nagainfo.smartShowroom:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.nagainfo.smartShowroom:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.nagainfomob.smartShowroom:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.nagainfomob.smartShowroom:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.nagainfomob.smartShowroom:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.nagainfomob.smartShowroom:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.nagainfomob.smartShowroom:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.nagainfomob.smartShowroom:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.nagainfomob.smartShowroom:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -4721,7 +4721,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4731,11 +4731,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:showText
+          @attr name com.nagainfomob.smartShowroom:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4745,11 +4745,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:splitTrack
+          @attr name com.nagainfomob.smartShowroom:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4761,11 +4761,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:switchMinWidth
+          @attr name com.nagainfomob.smartShowroom:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4777,21 +4777,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:switchPadding
+          @attr name com.nagainfomob.smartShowroom:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:switchTextAppearance
+          @attr name com.nagainfomob.smartShowroom:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4803,17 +4803,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:thumbTextPadding
+          @attr name com.nagainfomob.smartShowroom:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#track}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:track
+          @attr name com.nagainfomob.smartShowroom:track
         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a TextAppearance.
@@ -4826,7 +4826,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.nagainfo.smartShowroom:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.nagainfomob.smartShowroom:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_textColor
            @see #TextAppearance_android_textSize
@@ -4863,14 +4863,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.nagainfo.smartShowroom:textAllCaps
+          @attr name com.nagainfomob.smartShowroom:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 4;
         /** Attributes that can be used with a Theme.
@@ -4879,113 +4879,113 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.nagainfo.smartShowroom:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.nagainfo.smartShowroom:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.nagainfo.smartShowroom:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.nagainfo.smartShowroom:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.nagainfo.smartShowroom:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.nagainfo.smartShowroom:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.nagainfo.smartShowroom:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.nagainfo.smartShowroom:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.nagainfo.smartShowroom:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.nagainfo.smartShowroom:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.nagainfo.smartShowroom:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.nagainfo.smartShowroom:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.nagainfo.smartShowroom:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.nagainfo.smartShowroom:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.nagainfo.smartShowroom:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.nagainfo.smartShowroom:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.nagainfo.smartShowroom:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.nagainfo.smartShowroom:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.nagainfo.smartShowroom:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.nagainfo.smartShowroom:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.nagainfo.smartShowroom:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.nagainfo.smartShowroom:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.nagainfo.smartShowroom:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.nagainfo.smartShowroom:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.nagainfo.smartShowroom:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.nagainfo.smartShowroom:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.nagainfo.smartShowroom:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.nagainfo.smartShowroom:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.nagainfo.smartShowroom:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.nagainfo.smartShowroom:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.nagainfo.smartShowroom:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.nagainfo.smartShowroom:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.nagainfo.smartShowroom:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle com.nagainfo.smartShowroom:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme com.nagainfo.smartShowroom:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider com.nagainfomob.smartShowroom:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground com.nagainfomob.smartShowroom:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme com.nagainfomob.smartShowroom:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize com.nagainfomob.smartShowroom:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle com.nagainfomob.smartShowroom:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle com.nagainfomob.smartShowroom:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.nagainfomob.smartShowroom:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle com.nagainfomob.smartShowroom:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.nagainfomob.smartShowroom:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme com.nagainfomob.smartShowroom:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.nagainfomob.smartShowroom:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle com.nagainfomob.smartShowroom:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle com.nagainfomob.smartShowroom:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.nagainfomob.smartShowroom:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor com.nagainfomob.smartShowroom:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground com.nagainfomob.smartShowroom:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.nagainfomob.smartShowroom:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.nagainfomob.smartShowroom:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.nagainfomob.smartShowroom:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable com.nagainfomob.smartShowroom:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable com.nagainfomob.smartShowroom:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable com.nagainfomob.smartShowroom:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.nagainfomob.smartShowroom:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.nagainfomob.smartShowroom:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable com.nagainfomob.smartShowroom:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground com.nagainfomob.smartShowroom:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle com.nagainfomob.smartShowroom:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.nagainfomob.smartShowroom:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.nagainfomob.smartShowroom:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.nagainfomob.smartShowroom:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle com.nagainfomob.smartShowroom:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.nagainfomob.smartShowroom:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.nagainfomob.smartShowroom:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle com.nagainfomob.smartShowroom:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme com.nagainfomob.smartShowroom:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.nagainfo.smartShowroom:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle com.nagainfo.smartShowroom:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.nagainfo.smartShowroom:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.nagainfo.smartShowroom:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.nagainfo.smartShowroom:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.nagainfo.smartShowroom:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.nagainfo.smartShowroom:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle com.nagainfo.smartShowroom:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall com.nagainfo.smartShowroom:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle com.nagainfo.smartShowroom:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle com.nagainfo.smartShowroom:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.nagainfo.smartShowroom:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.nagainfo.smartShowroom:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.nagainfo.smartShowroom:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.nagainfo.smartShowroom:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.nagainfo.smartShowroom:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.nagainfo.smartShowroom:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.nagainfo.smartShowroom:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.nagainfo.smartShowroom:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding com.nagainfo.smartShowroom:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme com.nagainfo.smartShowroom:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.nagainfo.smartShowroom:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.nagainfo.smartShowroom:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.nagainfo.smartShowroom:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.nagainfo.smartShowroom:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.nagainfo.smartShowroom:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.nagainfo.smartShowroom:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle com.nagainfo.smartShowroom:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.nagainfo.smartShowroom:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.nagainfo.smartShowroom:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog com.nagainfo.smartShowroom:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.nagainfo.smartShowroom:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.nagainfo.smartShowroom:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.nagainfo.smartShowroom:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.nagainfo.smartShowroom:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.nagainfo.smartShowroom:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.nagainfo.smartShowroom:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.nagainfo.smartShowroom:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.nagainfo.smartShowroom:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.nagainfo.smartShowroom:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.nagainfo.smartShowroom:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.nagainfo.smartShowroom:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle com.nagainfo.smartShowroom:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle com.nagainfo.smartShowroom:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.nagainfo.smartShowroom:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.nagainfo.smartShowroom:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.nagainfo.smartShowroom:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.nagainfo.smartShowroom:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.nagainfo.smartShowroom:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.nagainfo.smartShowroom:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.nagainfo.smartShowroom:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.nagainfo.smartShowroom:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.nagainfo.smartShowroom:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.nagainfo.smartShowroom:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.nagainfo.smartShowroom:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.nagainfo.smartShowroom:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.nagainfo.smartShowroom:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.nagainfo.smartShowroom:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.nagainfo.smartShowroom:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.nagainfo.smartShowroom:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.nagainfo.smartShowroom:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.nagainfo.smartShowroom:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.nagainfo.smartShowroom:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.nagainfo.smartShowroom:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.nagainfo.smartShowroom:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.nagainfo.smartShowroom:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.nagainfo.smartShowroom:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor com.nagainfo.smartShowroom:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor com.nagainfo.smartShowroom:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle com.nagainfo.smartShowroom:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.nagainfomob.smartShowroom:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_borderlessButtonStyle com.nagainfomob.smartShowroom:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.nagainfomob.smartShowroom:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.nagainfomob.smartShowroom:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.nagainfomob.smartShowroom:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.nagainfomob.smartShowroom:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle com.nagainfomob.smartShowroom:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle com.nagainfomob.smartShowroom:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall com.nagainfomob.smartShowroom:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle com.nagainfomob.smartShowroom:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle com.nagainfomob.smartShowroom:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent com.nagainfomob.smartShowroom:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal com.nagainfomob.smartShowroom:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated com.nagainfomob.smartShowroom:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight com.nagainfomob.smartShowroom:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal com.nagainfomob.smartShowroom:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary com.nagainfomob.smartShowroom:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark com.nagainfomob.smartShowroom:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.nagainfomob.smartShowroom:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding com.nagainfomob.smartShowroom:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme com.nagainfomob.smartShowroom:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal com.nagainfomob.smartShowroom:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical com.nagainfomob.smartShowroom:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle com.nagainfomob.smartShowroom:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.nagainfomob.smartShowroom:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground com.nagainfomob.smartShowroom:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor com.nagainfomob.smartShowroom:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle com.nagainfomob.smartShowroom:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator com.nagainfomob.smartShowroom:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.nagainfomob.smartShowroom:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog com.nagainfomob.smartShowroom:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle com.nagainfomob.smartShowroom:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight com.nagainfomob.smartShowroom:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.nagainfomob.smartShowroom:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.nagainfomob.smartShowroom:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.nagainfomob.smartShowroom:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.nagainfomob.smartShowroom:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground com.nagainfomob.smartShowroom:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme com.nagainfomob.smartShowroom:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth com.nagainfomob.smartShowroom:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle com.nagainfomob.smartShowroom:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle com.nagainfomob.smartShowroom:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle com.nagainfomob.smartShowroom:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle com.nagainfomob.smartShowroom:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle com.nagainfomob.smartShowroom:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground com.nagainfomob.smartShowroom:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.nagainfomob.smartShowroom:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.nagainfomob.smartShowroom:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle com.nagainfomob.smartShowroom:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle com.nagainfomob.smartShowroom:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.nagainfomob.smartShowroom:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem com.nagainfomob.smartShowroom:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.nagainfomob.smartShowroom:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.nagainfomob.smartShowroom:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.nagainfomob.smartShowroom:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.nagainfomob.smartShowroom:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.nagainfomob.smartShowroom:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl com.nagainfomob.smartShowroom:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.nagainfomob.smartShowroom:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle com.nagainfomob.smartShowroom:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar com.nagainfomob.smartShowroom:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay com.nagainfomob.smartShowroom:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay com.nagainfomob.smartShowroom:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.nagainfomob.smartShowroom:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.nagainfomob.smartShowroom:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.nagainfomob.smartShowroom:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.nagainfomob.smartShowroom:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMajor com.nagainfomob.smartShowroom:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMinor com.nagainfomob.smartShowroom:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle com.nagainfomob.smartShowroom:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -5125,37 +5125,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100bc, 0x7f0100bd, 0x7f0100be
         };
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionBarDivider
+          @attr name com.nagainfomob.smartShowroom:actionBarDivider
         */
         public static final int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionBarItemBackground
+          @attr name com.nagainfomob.smartShowroom:actionBarItemBackground
         */
         public static final int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionBarPopupTheme
+          @attr name com.nagainfomob.smartShowroom:actionBarPopupTheme
         */
         public static final int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5175,111 +5175,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.nagainfo.smartShowroom:actionBarSize
+          @attr name com.nagainfomob.smartShowroom:actionBarSize
         */
         public static final int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionBarSplitStyle
+          @attr name com.nagainfomob.smartShowroom:actionBarSplitStyle
         */
         public static final int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionBarStyle
+          @attr name com.nagainfomob.smartShowroom:actionBarStyle
         */
         public static final int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionBarTabBarStyle
+          @attr name com.nagainfomob.smartShowroom:actionBarTabBarStyle
         */
         public static final int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionBarTabStyle
+          @attr name com.nagainfomob.smartShowroom:actionBarTabStyle
         */
         public static final int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionBarTabTextStyle
+          @attr name com.nagainfomob.smartShowroom:actionBarTabTextStyle
         */
         public static final int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionBarTheme
+          @attr name com.nagainfomob.smartShowroom:actionBarTheme
         */
         public static final int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionBarWidgetTheme
+          @attr name com.nagainfomob.smartShowroom:actionBarWidgetTheme
         */
         public static final int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionButtonStyle
+          @attr name com.nagainfomob.smartShowroom:actionButtonStyle
         */
         public static final int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionDropDownStyle
+          @attr name com.nagainfomob.smartShowroom:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionMenuTextAppearance
+          @attr name com.nagainfomob.smartShowroom:actionMenuTextAppearance
         */
         public static final int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5287,181 +5287,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionMenuTextColor
+          @attr name com.nagainfomob.smartShowroom:actionMenuTextColor
         */
         public static final int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionModeBackground
+          @attr name com.nagainfomob.smartShowroom:actionModeBackground
         */
         public static final int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionModeCloseButtonStyle
+          @attr name com.nagainfomob.smartShowroom:actionModeCloseButtonStyle
         */
         public static final int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionModeCloseDrawable
+          @attr name com.nagainfomob.smartShowroom:actionModeCloseDrawable
         */
         public static final int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionModeCopyDrawable
+          @attr name com.nagainfomob.smartShowroom:actionModeCopyDrawable
         */
         public static final int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionModeCutDrawable
+          @attr name com.nagainfomob.smartShowroom:actionModeCutDrawable
         */
         public static final int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionModeFindDrawable
+          @attr name com.nagainfomob.smartShowroom:actionModeFindDrawable
         */
         public static final int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionModePasteDrawable
+          @attr name com.nagainfomob.smartShowroom:actionModePasteDrawable
         */
         public static final int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionModePopupWindowStyle
+          @attr name com.nagainfomob.smartShowroom:actionModePopupWindowStyle
         */
         public static final int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionModeSelectAllDrawable
+          @attr name com.nagainfomob.smartShowroom:actionModeSelectAllDrawable
         */
         public static final int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionModeShareDrawable
+          @attr name com.nagainfomob.smartShowroom:actionModeShareDrawable
         */
         public static final int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionModeSplitBackground
+          @attr name com.nagainfomob.smartShowroom:actionModeSplitBackground
         */
         public static final int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionModeStyle
+          @attr name com.nagainfomob.smartShowroom:actionModeStyle
         */
         public static final int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionModeWebSearchDrawable
+          @attr name com.nagainfomob.smartShowroom:actionModeWebSearchDrawable
         */
         public static final int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionOverflowButtonStyle
+          @attr name com.nagainfomob.smartShowroom:actionOverflowButtonStyle
         */
         public static final int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:actionOverflowMenuStyle
+          @attr name com.nagainfomob.smartShowroom:actionOverflowMenuStyle
         */
         public static final int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:activityChooserViewStyle
+          @attr name com.nagainfomob.smartShowroom:activityChooserViewStyle
         */
         public static final int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:alertDialogButtonGroupStyle
+          @attr name com.nagainfomob.smartShowroom:alertDialogButtonGroupStyle
         */
         public static final int Theme_alertDialogButtonGroupStyle = 90;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5471,27 +5471,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:alertDialogCenterButtons
+          @attr name com.nagainfomob.smartShowroom:alertDialogCenterButtons
         */
         public static final int Theme_alertDialogCenterButtons = 91;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:alertDialogStyle
+          @attr name com.nagainfomob.smartShowroom:alertDialogStyle
         */
         public static final int Theme_alertDialogStyle = 89;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:alertDialogTheme
+          @attr name com.nagainfomob.smartShowroom:alertDialogTheme
         */
         public static final int Theme_alertDialogTheme = 92;
         /**
@@ -5507,117 +5507,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:autoCompleteTextViewStyle
+          @attr name com.nagainfomob.smartShowroom:autoCompleteTextViewStyle
         */
         public static final int Theme_autoCompleteTextViewStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:borderlessButtonStyle
+          @attr name com.nagainfomob.smartShowroom:borderlessButtonStyle
         */
         public static final int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:buttonBarButtonStyle
+          @attr name com.nagainfomob.smartShowroom:buttonBarButtonStyle
         */
         public static final int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:buttonBarNegativeButtonStyle
+          @attr name com.nagainfomob.smartShowroom:buttonBarNegativeButtonStyle
         */
         public static final int Theme_buttonBarNegativeButtonStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:buttonBarNeutralButtonStyle
+          @attr name com.nagainfomob.smartShowroom:buttonBarNeutralButtonStyle
         */
         public static final int Theme_buttonBarNeutralButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:buttonBarPositiveButtonStyle
+          @attr name com.nagainfomob.smartShowroom:buttonBarPositiveButtonStyle
         */
         public static final int Theme_buttonBarPositiveButtonStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:buttonBarStyle
+          @attr name com.nagainfomob.smartShowroom:buttonBarStyle
         */
         public static final int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:buttonStyle
+          @attr name com.nagainfomob.smartShowroom:buttonStyle
         */
         public static final int Theme_buttonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:buttonStyleSmall
+          @attr name com.nagainfomob.smartShowroom:buttonStyleSmall
         */
         public static final int Theme_buttonStyleSmall = 99;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:checkboxStyle
+          @attr name com.nagainfomob.smartShowroom:checkboxStyle
         */
         public static final int Theme_checkboxStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:checkedTextViewStyle
+          @attr name com.nagainfomob.smartShowroom:checkedTextViewStyle
         */
         public static final int Theme_checkedTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5628,11 +5628,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:colorAccent
+          @attr name com.nagainfomob.smartShowroom:colorAccent
         */
         public static final int Theme_colorAccent = 83;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5643,11 +5643,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:colorButtonNormal
+          @attr name com.nagainfomob.smartShowroom:colorButtonNormal
         */
         public static final int Theme_colorButtonNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5658,11 +5658,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:colorControlActivated
+          @attr name com.nagainfomob.smartShowroom:colorControlActivated
         */
         public static final int Theme_colorControlActivated = 85;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5673,11 +5673,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:colorControlHighlight
+          @attr name com.nagainfomob.smartShowroom:colorControlHighlight
         */
         public static final int Theme_colorControlHighlight = 86;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5688,11 +5688,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:colorControlNormal
+          @attr name com.nagainfomob.smartShowroom:colorControlNormal
         */
         public static final int Theme_colorControlNormal = 84;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5703,11 +5703,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:colorPrimary
+          @attr name com.nagainfomob.smartShowroom:colorPrimary
         */
         public static final int Theme_colorPrimary = 81;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5718,11 +5718,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:colorPrimaryDark
+          @attr name com.nagainfomob.smartShowroom:colorPrimaryDark
         */
         public static final int Theme_colorPrimaryDark = 82;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5733,11 +5733,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:colorSwitchThumbNormal
+          @attr name com.nagainfomob.smartShowroom:colorSwitchThumbNormal
         */
         public static final int Theme_colorSwitchThumbNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5749,51 +5749,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:dialogPreferredPadding
+          @attr name com.nagainfomob.smartShowroom:dialogPreferredPadding
         */
         public static final int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:dialogTheme
+          @attr name com.nagainfomob.smartShowroom:dialogTheme
         */
         public static final int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:dividerHorizontal
+          @attr name com.nagainfomob.smartShowroom:dividerHorizontal
         */
         public static final int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:dividerVertical
+          @attr name com.nagainfomob.smartShowroom:dividerVertical
         */
         public static final int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:dropDownListViewStyle
+          @attr name com.nagainfomob.smartShowroom:dropDownListViewStyle
         */
         public static final int Theme_dropDownListViewStyle = 73;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5805,21 +5805,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:dropdownListPreferredItemHeight
+          @attr name com.nagainfomob.smartShowroom:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:editTextBackground
+          @attr name com.nagainfomob.smartShowroom:editTextBackground
         */
         public static final int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5827,61 +5827,61 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.nagainfo.smartShowroom:editTextColor
+          @attr name com.nagainfomob.smartShowroom:editTextColor
         */
         public static final int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:editTextStyle
+          @attr name com.nagainfomob.smartShowroom:editTextStyle
         */
         public static final int Theme_editTextStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:homeAsUpIndicator
+          @attr name com.nagainfomob.smartShowroom:homeAsUpIndicator
         */
         public static final int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:listChoiceBackgroundIndicator
+          @attr name com.nagainfomob.smartShowroom:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 80;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:listDividerAlertDialog
+          @attr name com.nagainfomob.smartShowroom:listDividerAlertDialog
         */
         public static final int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:listPopupWindowStyle
+          @attr name com.nagainfomob.smartShowroom:listPopupWindowStyle
         */
         public static final int Theme_listPopupWindowStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5893,11 +5893,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:listPreferredItemHeight
+          @attr name com.nagainfomob.smartShowroom:listPreferredItemHeight
         */
         public static final int Theme_listPreferredItemHeight = 68;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5909,11 +5909,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:listPreferredItemHeightLarge
+          @attr name com.nagainfomob.smartShowroom:listPreferredItemHeightLarge
         */
         public static final int Theme_listPreferredItemHeightLarge = 70;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5925,11 +5925,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:listPreferredItemHeightSmall
+          @attr name com.nagainfomob.smartShowroom:listPreferredItemHeightSmall
         */
         public static final int Theme_listPreferredItemHeightSmall = 69;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5941,11 +5941,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:listPreferredItemPaddingLeft
+          @attr name com.nagainfomob.smartShowroom:listPreferredItemPaddingLeft
         */
         public static final int Theme_listPreferredItemPaddingLeft = 71;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5957,31 +5957,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:listPreferredItemPaddingRight
+          @attr name com.nagainfomob.smartShowroom:listPreferredItemPaddingRight
         */
         public static final int Theme_listPreferredItemPaddingRight = 72;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:panelBackground
+          @attr name com.nagainfomob.smartShowroom:panelBackground
         */
         public static final int Theme_panelBackground = 77;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:panelMenuListTheme
+          @attr name com.nagainfomob.smartShowroom:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 79;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5993,171 +5993,171 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:panelMenuListWidth
+          @attr name com.nagainfomob.smartShowroom:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 78;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:popupMenuStyle
+          @attr name com.nagainfomob.smartShowroom:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:popupWindowStyle
+          @attr name com.nagainfomob.smartShowroom:popupWindowStyle
         */
         public static final int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:radioButtonStyle
+          @attr name com.nagainfomob.smartShowroom:radioButtonStyle
         */
         public static final int Theme_radioButtonStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:ratingBarStyle
+          @attr name com.nagainfomob.smartShowroom:ratingBarStyle
         */
         public static final int Theme_ratingBarStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:searchViewStyle
+          @attr name com.nagainfomob.smartShowroom:searchViewStyle
         */
         public static final int Theme_searchViewStyle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:selectableItemBackground
+          @attr name com.nagainfomob.smartShowroom:selectableItemBackground
         */
         public static final int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:selectableItemBackgroundBorderless
+          @attr name com.nagainfomob.smartShowroom:selectableItemBackgroundBorderless
         */
         public static final int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:spinnerDropDownItemStyle
+          @attr name com.nagainfomob.smartShowroom:spinnerDropDownItemStyle
         */
         public static final int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:spinnerStyle
+          @attr name com.nagainfomob.smartShowroom:spinnerStyle
         */
         public static final int Theme_spinnerStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:switchStyle
+          @attr name com.nagainfomob.smartShowroom:switchStyle
         */
         public static final int Theme_switchStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:textAppearanceLargePopupMenu
+          @attr name com.nagainfomob.smartShowroom:textAppearanceLargePopupMenu
         */
         public static final int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:textAppearanceListItem
+          @attr name com.nagainfomob.smartShowroom:textAppearanceListItem
         */
         public static final int Theme_textAppearanceListItem = 75;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:textAppearanceListItemSmall
+          @attr name com.nagainfomob.smartShowroom:textAppearanceListItemSmall
         */
         public static final int Theme_textAppearanceListItemSmall = 76;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:textAppearanceSearchResultSubtitle
+          @attr name com.nagainfomob.smartShowroom:textAppearanceSearchResultSubtitle
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:textAppearanceSearchResultTitle
+          @attr name com.nagainfomob.smartShowroom:textAppearanceSearchResultTitle
         */
         public static final int Theme_textAppearanceSearchResultTitle = 64;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:textAppearanceSmallPopupMenu
+          @attr name com.nagainfomob.smartShowroom:textAppearanceSmallPopupMenu
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6165,11 +6165,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.nagainfo.smartShowroom:textColorAlertDialogListItem
+          @attr name com.nagainfomob.smartShowroom:textColorAlertDialogListItem
         */
         public static final int Theme_textColorAlertDialogListItem = 93;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6177,31 +6177,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.nagainfo.smartShowroom:textColorSearchUrl
+          @attr name com.nagainfomob.smartShowroom:textColorSearchUrl
         */
         public static final int Theme_textColorSearchUrl = 66;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:toolbarNavigationButtonStyle
+          @attr name com.nagainfomob.smartShowroom:toolbarNavigationButtonStyle
         */
         public static final int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:toolbarStyle
+          @attr name com.nagainfomob.smartShowroom:toolbarStyle
         */
         public static final int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6211,11 +6211,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:windowActionBar
+          @attr name com.nagainfomob.smartShowroom:windowActionBar
         */
         public static final int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6225,11 +6225,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:windowActionBarOverlay
+          @attr name com.nagainfomob.smartShowroom:windowActionBarOverlay
         */
         public static final int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6239,11 +6239,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:windowActionModeOverlay
+          @attr name com.nagainfomob.smartShowroom:windowActionModeOverlay
         */
         public static final int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6258,11 +6258,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:windowFixedHeightMajor
+          @attr name com.nagainfomob.smartShowroom:windowFixedHeightMajor
         */
         public static final int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6277,11 +6277,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:windowFixedHeightMinor
+          @attr name com.nagainfomob.smartShowroom:windowFixedHeightMinor
         */
         public static final int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6296,11 +6296,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:windowFixedWidthMajor
+          @attr name com.nagainfomob.smartShowroom:windowFixedWidthMajor
         */
         public static final int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6315,11 +6315,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:windowFixedWidthMinor
+          @attr name com.nagainfomob.smartShowroom:windowFixedWidthMinor
         */
         public static final int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6334,11 +6334,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:windowMinWidthMajor
+          @attr name com.nagainfomob.smartShowroom:windowMinWidthMajor
         */
         public static final int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6353,11 +6353,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:windowMinWidthMinor
+          @attr name com.nagainfomob.smartShowroom:windowMinWidthMinor
         */
         public static final int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6367,7 +6367,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:windowNoTitle
+          @attr name com.nagainfomob.smartShowroom:windowNoTitle
         */
         public static final int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
@@ -6378,25 +6378,25 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.nagainfo.smartShowroom:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.nagainfo.smartShowroom:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.nagainfo.smartShowroom:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.nagainfo.smartShowroom:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.nagainfo.smartShowroom:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.nagainfo.smartShowroom:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.nagainfo.smartShowroom:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.nagainfo.smartShowroom:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.nagainfo.smartShowroom:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.nagainfo.smartShowroom:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.nagainfo.smartShowroom:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.nagainfo.smartShowroom:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.nagainfo.smartShowroom:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.nagainfo.smartShowroom:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.nagainfo.smartShowroom:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.nagainfo.smartShowroom:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.nagainfo.smartShowroom:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.nagainfo.smartShowroom:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.nagainfo.smartShowroom:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.nagainfomob.smartShowroom:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.nagainfomob.smartShowroom:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.nagainfomob.smartShowroom:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.nagainfomob.smartShowroom:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.nagainfomob.smartShowroom:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.nagainfomob.smartShowroom:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.nagainfomob.smartShowroom:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.nagainfomob.smartShowroom:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.nagainfomob.smartShowroom:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.nagainfomob.smartShowroom:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.nagainfomob.smartShowroom:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.nagainfomob.smartShowroom:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.nagainfomob.smartShowroom:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.nagainfomob.smartShowroom:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.nagainfomob.smartShowroom:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.nagainfomob.smartShowroom:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.nagainfomob.smartShowroom:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.nagainfomob.smartShowroom:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.nagainfomob.smartShowroom:titleTextAppearance}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -6441,7 +6441,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6451,21 +6451,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:collapseContentDescription
+          @attr name com.nagainfomob.smartShowroom:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 18;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:collapseIcon
+          @attr name com.nagainfomob.smartShowroom:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 17;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6477,11 +6477,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:contentInsetEnd
+          @attr name com.nagainfomob.smartShowroom:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 5;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6493,11 +6493,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:contentInsetLeft
+          @attr name com.nagainfomob.smartShowroom:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 6;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6509,11 +6509,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:contentInsetRight
+          @attr name com.nagainfomob.smartShowroom:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 7;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6525,11 +6525,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:contentInsetStart
+          @attr name com.nagainfomob.smartShowroom:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 4;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6541,11 +6541,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:maxButtonHeight
+          @attr name com.nagainfomob.smartShowroom:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 16;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6555,31 +6555,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:navigationContentDescription
+          @attr name com.nagainfomob.smartShowroom:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 20;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:navigationIcon
+          @attr name com.nagainfomob.smartShowroom:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 19;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:popupTheme
+          @attr name com.nagainfomob.smartShowroom:popupTheme
         */
         public static final int Toolbar_popupTheme = 8;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6589,21 +6589,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:subtitle
+          @attr name com.nagainfomob.smartShowroom:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:subtitleTextAppearance
+          @attr name com.nagainfomob.smartShowroom:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#title}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6613,11 +6613,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:title
+          @attr name com.nagainfomob.smartShowroom:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6629,11 +6629,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:titleMarginBottom
+          @attr name com.nagainfomob.smartShowroom:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 15;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6645,11 +6645,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:titleMarginEnd
+          @attr name com.nagainfomob.smartShowroom:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6661,11 +6661,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:titleMarginStart
+          @attr name com.nagainfomob.smartShowroom:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 12;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6677,11 +6677,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:titleMarginTop
+          @attr name com.nagainfomob.smartShowroom:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 14;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6693,17 +6693,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:titleMargins
+          @attr name com.nagainfomob.smartShowroom:titleMargins
         */
         public static final int Toolbar_titleMargins = 11;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:titleTextAppearance
+          @attr name com.nagainfomob.smartShowroom:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 9;
         /** Attributes that can be used with a View.
@@ -6714,11 +6714,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_backgroundTint com.nagainfo.smartShowroom:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_backgroundTintMode com.nagainfo.smartShowroom:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.nagainfo.smartShowroom:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.nagainfo.smartShowroom:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.nagainfo.smartShowroom:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_backgroundTint com.nagainfomob.smartShowroom:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_backgroundTintMode com.nagainfomob.smartShowroom:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.nagainfomob.smartShowroom:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.nagainfomob.smartShowroom:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.nagainfomob.smartShowroom:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -6745,7 +6745,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#backgroundTint}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6756,11 +6756,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:backgroundTint
+          @attr name com.nagainfomob.smartShowroom:backgroundTint
         */
         public static final int View_backgroundTint = 5;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6776,11 +6776,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.nagainfo.smartShowroom:backgroundTintMode
+          @attr name com.nagainfomob.smartShowroom:backgroundTintMode
         */
         public static final int View_backgroundTintMode = 6;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6792,11 +6792,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:paddingEnd
+          @attr name com.nagainfomob.smartShowroom:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6808,17 +6808,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nagainfo.smartShowroom:paddingStart
+          @attr name com.nagainfomob.smartShowroom:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.nagainfo.smartShowroom.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.nagainfomob.smartShowroom.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nagainfo.smartShowroom:theme
+          @attr name com.nagainfomob.smartShowroom:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewStubCompat.

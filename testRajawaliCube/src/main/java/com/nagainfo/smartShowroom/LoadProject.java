@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -17,9 +17,9 @@ import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
 
-import com.nagainfo.database.DatabaseHandler;
-import com.nagainfo.zipmanagement.Decompress;
-import com.nagainfo.zipmanagement.Unzipper;
+import com.nagainfomob.database.DatabaseHandler;
+import com.nagainfomob.zipmanagement.Decompress;
+import com.nagainfomob.zipmanagement.Unzipper;
 
 import android.app.ActionBar;
 import android.app.Activity;

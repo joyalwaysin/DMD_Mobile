@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -20,14 +20,14 @@ import org.opencv.core.Size;
 import org.opencv.imgproc.Imgproc;
 import org.opencv.utils.Converters;
 
-import uk.co.senab.photoview.PhotoViewAttacher;
+import com.nagainfomob.photoview.PhotoViewAttacher;
 
-import com.nagainfo.database.DatabaseHandler;
-import com.nagainfo.slider.PatternGridAdapter;
-import com.nagainfo.smartShowroom.LayeredImageView.Layer;
-import com.nagainfo.sromku.polygon.Polygon;
-import com.nagainfo.update.PatternimgNameInterface;
-import com.nagainfo.utils.FileUtils;
+import com.nagainfomob.database.DatabaseHandler;
+import com.nagainfomob.slider.PatternGridAdapter;
+import com.nagainfomob.smartShowroom.LayeredImageView.Layer;
+import com.nagainfomob.sromku.polygon.Polygon;
+import com.nagainfomob.update.PatternimgNameInterface;
+import com.nagainfomob.utils.FileUtils;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -244,49 +244,49 @@ public class AmbienceBedroom extends Activity implements OnClickListener,
 		final Polygon leftWallPolygon = Polygon
 				.Builder()
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(0 / scaleFactor,
+						new com.nagainfomob.sromku.polygon.Point(0 / scaleFactor,
 								62 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(0 / scaleFactor,
+						new com.nagainfomob.sromku.polygon.Point(0 / scaleFactor,
 								432 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								203 / scaleFactor, 413 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								203 / scaleFactor, 116 / scaleFactor)).build();
 
 		final Polygon rightWallPolygon = Polygon
 				.Builder()
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								203 / scaleFactor, 116 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								203 / scaleFactor, 413 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								775 / scaleFactor, 443 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								775 / scaleFactor, 41 / scaleFactor)).build();
 
 		final Polygon floorPolygon = Polygon
 				.Builder()
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(0 / scaleFactor,
+						new com.nagainfomob.sromku.polygon.Point(0 / scaleFactor,
 								446 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(0 / scaleFactor,
+						new com.nagainfomob.sromku.polygon.Point(0 / scaleFactor,
 								588 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								776 / scaleFactor, 586 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								776 / scaleFactor, 458 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								203 / scaleFactor, 424 / scaleFactor)).build();
 
 		layout.setOnTouchListener(new OnTouchListener() {
@@ -295,7 +295,7 @@ public class AmbienceBedroom extends Activity implements OnClickListener,
 			public boolean onTouch(View v, MotionEvent event) {
 				// TODO Auto-generated method stub
 
-				com.nagainfo.sromku.polygon.Point touch = new com.nagainfo.sromku.polygon.Point(
+				com.nagainfomob.sromku.polygon.Point touch = new com.nagainfomob.sromku.polygon.Point(
 						event.getX(), event.getY());
 
 				switch (event.getAction() & MotionEvent.ACTION_MASK) {

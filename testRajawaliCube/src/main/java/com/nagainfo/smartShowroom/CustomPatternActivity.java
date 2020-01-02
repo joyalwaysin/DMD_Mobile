@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -17,14 +17,14 @@ import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
 
 import com.google.android.youtube.player.internal.l;
-import com.nagainfo.database.DatabaseHandler;
-import com.nagainfo.slider.PatternGridAdapter;
-import com.nagainfo.smartShowroom.R;
-import com.nagainfo.smartShowroom.R.array;
-import com.nagainfo.smartShowroom.R.id;
-import com.nagainfo.smartShowroom.R.layout;
-import com.nagainfo.smartShowroom.R.menu;
-import com.nagainfo.update.PatternimgNameInterface;
+import com.nagainfomob.database.DatabaseHandler;
+import com.nagainfomob.slider.PatternGridAdapter;
+import com.nagainfomob.smartShowroom.R;
+import com.nagainfomob.smartShowroom.R.array;
+import com.nagainfomob.smartShowroom.R.id;
+import com.nagainfomob.smartShowroom.R.layout;
+import com.nagainfomob.smartShowroom.R.menu;
+import com.nagainfomob.update.PatternimgNameInterface;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;

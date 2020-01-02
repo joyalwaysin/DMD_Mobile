@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -17,8 +17,8 @@ import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
 import org.xmlpull.v1.XmlSerializer;
 
-import com.nagainfo.smartShowroom.Room3DActivity.CameraUpdater;
-import com.nagainfo.smartShowroom.Room3DActivity.MovementUpdater;
+import com.nagainfomob.smartShowroom.Room3DActivity.CameraUpdater;
+import com.nagainfomob.smartShowroom.Room3DActivity.MovementUpdater;
 
 import rajawali.Camera;
 import rajawali.Object3D;

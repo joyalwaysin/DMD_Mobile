@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -68,11 +68,11 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.nagainfo.camera.CamCrop;
-import com.nagainfo.database.DatabaseHandler;
-import com.nagainfo.help.ActivityHelp;
-import com.nagainfo.registration.GetDeviceId;
-import com.nagainfo.registration.SessionManager;
+import com.nagainfomob.camera.CamCrop;
+import com.nagainfomob.database.DatabaseHandler;
+import com.nagainfomob.help.ActivityHelp;
+import com.nagainfomob.registration.GetDeviceId;
+import com.nagainfomob.registration.SessionManager;
 
 public class HomeActivity extends Activity {
 	Dialog activateDialog;
@@ -309,8 +309,7 @@ public class HomeActivity extends Activity {
 //			if(keyCount==3){
 //				keyCount = 0;
 //				if (!isNetworkAvailable(activity)) {
-//
-////					dialogActivate(1);
+	////					dialogActivate(1);
 //					Toast.makeText(getApplicationContext(), "Please check your Network Connectivity", 1).show();
 //				} else {
 ////					dialogActivate(0);
@@ -478,7 +477,7 @@ public class HomeActivity extends Activity {
 		// Intent i = new Intent(getApplicationContext(),
 		// com.naga.update.ActivityUpdate.class);
 		Intent i = new Intent(getApplicationContext(),
-				com.nagainfo.update.ActivityCountry.class);
+				com.nagainfomob.update.ActivityCountry.class);
 
 		startActivity(i);
 
@@ -879,7 +878,7 @@ public class HomeActivity extends Activity {
 		SessionManager session = new SessionManager(getApplicationContext());
 		status = session.isActivated(currentDateandTime);
 		// return false;
-		return status;
+		return true;
 	}
 
 	public Boolean checkCamClickActivated() {

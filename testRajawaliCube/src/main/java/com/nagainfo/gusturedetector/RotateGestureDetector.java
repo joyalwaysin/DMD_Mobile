@@ -1,4 +1,4 @@
-package com.nagainfo.gusturedetector;
+package com.nagainfomob.gusturedetector;
 
 import android.content.Context;
 import android.view.MotionEvent;

@@ -1,4 +1,4 @@
-package com.nagainfo.sromku.polygon;
+package com.nagainfomob.sromku.polygon;
 
 import java.util.ArrayList;
 import java.util.List;

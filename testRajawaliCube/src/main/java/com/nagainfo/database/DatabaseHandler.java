@@ -1,4 +1,4 @@
-package com.nagainfo.database;
+package com.nagainfomob.database;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -10,8 +10,8 @@ import java.util.List;
 
 import org.xmlpull.v1.XmlSerializer;
 
-import com.nagainfo.smartShowroom.GlobalVariables;
-import com.nagainfo.zipmanagement.Compress;
+import com.nagainfomob.smartShowroom.GlobalVariables;
+import com.nagainfomob.zipmanagement.Compress;
 
 import android.content.ContentValues;
 import android.content.Context;

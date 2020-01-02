@@ -1,6 +1,6 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
-import com.nagainfo.database.DatabaseHandler;
+import com.nagainfomob.database.DatabaseHandler;
 
 import rajawali.RajawaliActivity;
 import android.app.Activity;

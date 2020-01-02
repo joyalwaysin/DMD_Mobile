@@ -1,4 +1,4 @@
-package com.nagainfo.update;
+package com.nagainfomob.update;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
@@ -34,11 +34,11 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.nagainfo.database.*;
-import com.nagainfo.registration.GetDeviceId;
-import com.nagainfo.smartShowroom.GlobalVariables;
-import com.nagainfo.smartShowroom.R;
-import com.nagainfo.smartShowroom.XMLParser;
+import com.nagainfomob.database.*;
+import com.nagainfomob.registration.GetDeviceId;
+import com.nagainfomob.smartShowroom.GlobalVariables;
+import com.nagainfomob.smartShowroom.R;
+import com.nagainfomob.smartShowroom.XMLParser;
 
 public class LazyAdapter extends BaseAdapter implements
 		DownloadCompleteListener {
@@ -46,7 +46,7 @@ public class LazyAdapter extends BaseAdapter implements
 	private ArrayList<HashMap<String, String>> filePath;
 	private Activity activity;
 	private LayoutInflater inflater = null;
-	private com.nagainfo.update.ImageLoader imageLoader;
+	private com.nagainfomob.update.ImageLoader imageLoader;
 
 	private static final String KEY_ITEM = "data";
 	private static final String KEY_BRAND_ID = "brand_id";

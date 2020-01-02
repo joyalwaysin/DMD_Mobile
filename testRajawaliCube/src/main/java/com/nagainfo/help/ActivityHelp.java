@@ -1,4 +1,4 @@
-package com.nagainfo.help;
+package com.nagainfomob.help;
 
 import com.google.android.youtube.player.YouTubeInitializationResult;
 import com.google.android.youtube.player.YouTubeIntents;
@@ -7,8 +7,8 @@ import com.google.android.youtube.player.YouTubeThumbnailView;
 import com.google.android.youtube.player.YouTubeThumbnailLoader.ErrorReason;
 import com.google.android.youtube.player.YouTubeThumbnailLoader.OnThumbnailLoadedListener;
 import com.google.android.youtube.player.YouTubeThumbnailView.OnInitializedListener;
-import com.nagainfo.smartShowroom.R;
-//import com.nagainfo.smartShowroom.R;
+import com.nagainfomob.smartShowroom.R;
+//import com.nagainfomob.smartShowroom.R;
 
 import android.app.Activity;
 import android.content.Intent;

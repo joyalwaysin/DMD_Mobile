@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android" >
-     <item android:drawable="@drawable/help_button_h" android:state_pressed="true"></item>
-    <item android:drawable="@drawable/help_button"></item>
-
-</selector>
-<!-- From: file:/home/neeraj/StudioProjects/testRajawaliCube/testRajawaliCube/src/main/res/drawable/browse_library_but.xml -->

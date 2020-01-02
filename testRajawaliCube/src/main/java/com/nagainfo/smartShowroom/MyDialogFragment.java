@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import android.os.Bundle;
 import android.support.v4.app.DialogFragment;

@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -6,11 +6,11 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
 
-import com.nagainfo.database.DatabaseHandler;
-import com.nagainfo.smartShowroom.FragFrontView.ImageAdapter;
-import com.nagainfo.smartShowroom.FragFrontView.LoadItems;
-import com.nagainfo.smartShowroom.FragFrontView.MyScaleGestures;
-import com.nagainfo.smartShowroom.FragFrontView.ViewHolder;
+import com.nagainfomob.database.DatabaseHandler;
+import com.nagainfomob.smartShowroom.FragFrontView.ImageAdapter;
+import com.nagainfomob.smartShowroom.FragFrontView.LoadItems;
+import com.nagainfomob.smartShowroom.FragFrontView.MyScaleGestures;
+import com.nagainfomob.smartShowroom.FragFrontView.ViewHolder;
 
 import android.app.ActionBar;
 import android.app.Dialog;

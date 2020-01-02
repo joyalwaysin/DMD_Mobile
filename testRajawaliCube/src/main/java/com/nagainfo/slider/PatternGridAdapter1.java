@@ -1,17 +1,17 @@
-package com.nagainfo.slider;
+package com.nagainfomob.slider;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 
 import org.w3c.dom.Text;
 
-import com.nagainfo.database.DatabaseHandler;
-import com.nagainfo.smartShowroom.CustomPatternActivity;
-import com.nagainfo.smartShowroom.GlobalVariables;
-import com.nagainfo.smartShowroom.PatternLibraryActivity;
-import com.nagainfo.smartShowroom.R;
-import com.nagainfo.smartShowroom.ViewPatternActivity;
-import com.nagainfo.update.*;
+import com.nagainfomob.database.DatabaseHandler;
+import com.nagainfomob.smartShowroom.CustomPatternActivity;
+import com.nagainfomob.smartShowroom.GlobalVariables;
+import com.nagainfomob.smartShowroom.PatternLibraryActivity;
+import com.nagainfomob.smartShowroom.R;
+import com.nagainfomob.smartShowroom.ViewPatternActivity;
+import com.nagainfomob.update.*;
 
 import android.R.color;
 import android.app.Activity;

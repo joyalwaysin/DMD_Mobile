@@ -1,4 +1,3 @@
-include ':main'
-include ':testRajawaliCube'
-include ':openCVLibrary2410'
+include ':app'
 include ':rajawali'
+include ':openCVLibrary320'

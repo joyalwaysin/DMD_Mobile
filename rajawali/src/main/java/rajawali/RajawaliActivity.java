@@ -35,7 +35,7 @@ import android.widget.FrameLayout;
  * the Rajawali engine. In general, you may want to consider
  * using {@link RajawaliFragment} over this class, however if you are
  * developing for compatibility with API 8-10 (2.2-2.3.3), and want
- * to use fragments in your app, you will need to use 
+ * to use fragments in your app, you will need to use
  * {@link RajawaliFragmentActivity} instead.
  */
 public class RajawaliActivity extends Activity {

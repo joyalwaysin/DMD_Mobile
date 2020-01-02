@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/neeraj/StudioProjects/testRajawaliCube/main/src/main/res"/><source path="/home/neeraj/StudioProjects/testRajawaliCube/main/build/generated/res/rs/release"/><source path="/home/neeraj/StudioProjects/testRajawaliCube/main/build/generated/res/generated/release"/></dataSet><dataSet config="release"><source path="/home/neeraj/StudioProjects/testRajawaliCube/main/src/release/res"/></dataSet><mergedItems/></merger>

@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -18,7 +18,7 @@ import android.view.Display;
 import android.view.WindowManager;
 import android.widget.Toast;
 
-import com.nagainfo.database.DatabaseHandler;
+import com.nagainfomob.database.DatabaseHandler;
 
 import java.io.File;
 import java.io.IOException;

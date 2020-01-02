@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <item android:drawable="@drawable/live_butt_pressed_02" android:state_pressed="true"></item>
-    <item android:drawable="@drawable/live_but_02"></item>
-
-</selector><!-- From: file:/home/neeraj/StudioProjects/testRajawaliCube/testRajawaliCube/src/main/res/drawable/dialog_reset.xml -->

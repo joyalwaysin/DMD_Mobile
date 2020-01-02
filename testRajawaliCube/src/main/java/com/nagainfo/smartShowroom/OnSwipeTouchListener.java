@@ -1,1 +1,1 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;

@@ -1,14 +1,14 @@
-package com.nagainfo.update;
+package com.nagainfomob.update;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.nagainfo.smartShowroom.GlobalVariables;
-import com.nagainfo.smartShowroom.R;
-import com.nagainfo.smartShowroom.R.id;
-import com.nagainfo.smartShowroom.R.layout;
+import com.nagainfomob.smartShowroom.GlobalVariables;
+import com.nagainfomob.smartShowroom.R;
+import com.nagainfomob.smartShowroom.R.id;
+import com.nagainfomob.smartShowroom.R.layout;
 
 import android.app.Activity;
 import android.content.Context;

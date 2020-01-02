@@ -1,4 +1,4 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -22,13 +22,13 @@ import org.opencv.core.Size;
 import org.opencv.imgproc.Imgproc;
 import org.opencv.utils.Converters;
 
-import uk.co.senab.photoview.PhotoViewAttacher;
+import com.nagainfomob.photoview.PhotoViewAttacher;
 
-import com.nagainfo.database.DatabaseHandler;
-import com.nagainfo.slider.PatternGridAdapter;
-import com.nagainfo.smartShowroom.LayeredImageView.Layer;
-import com.nagainfo.sromku.polygon.Polygon;
-import com.nagainfo.update.PatternimgNameInterface;
+import com.nagainfomob.database.DatabaseHandler;
+import com.nagainfomob.slider.PatternGridAdapter;
+import com.nagainfomob.smartShowroom.LayeredImageView.Layer;
+import com.nagainfomob.sromku.polygon.Polygon;
+import com.nagainfomob.update.PatternimgNameInterface;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -274,61 +274,61 @@ public class AmbienceDrawingroom extends Activity implements OnClickListener,
 		final Polygon floorPolygon = Polygon
 				.Builder()
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								506 / scaleFactor, 415 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								615 / scaleFactor, 430 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								244 / scaleFactor, 596 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								860 / scaleFactor, 596 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								825 / scaleFactor, 410 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								584 / scaleFactor, 393 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								506 / scaleFactor, 415 / scaleFactor)).build();
 
 		final Polygon leftWallPolygon = Polygon
 				.Builder()
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(50 / scaleFactor,
+						new com.nagainfomob.sromku.polygon.Point(50 / scaleFactor,
 								112 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								584 / scaleFactor, 272 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								584 / scaleFactor, 393 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(50 / scaleFactor,
+						new com.nagainfomob.sromku.polygon.Point(50 / scaleFactor,
 								534 / scaleFactor)).build();
 
 		final Polygon topWallPolygon = Polygon
 				.Builder()
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								855 / scaleFactor, 9 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								855 / scaleFactor, 170 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								505 / scaleFactor, 243 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								392 / scaleFactor, 208 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								392 / scaleFactor, 188 / scaleFactor))
 				.addVertex(
-						new com.nagainfo.sromku.polygon.Point(
+						new com.nagainfomob.sromku.polygon.Point(
 								855 / scaleFactor, 9 / scaleFactor)).build();
 
 		timer = new CountDownTimer(300, 1000) {
@@ -357,7 +357,7 @@ public class AmbienceDrawingroom extends Activity implements OnClickListener,
 				Toast.makeText(getApplicationContext(),
 						event.getX() + " : " + event.getY(), 1).show();
 
-				com.nagainfo.sromku.polygon.Point touch = new com.nagainfo.sromku.polygon.Point(
+				com.nagainfomob.sromku.polygon.Point touch = new com.nagainfomob.sromku.polygon.Point(
 						event.getX(), event.getY());
 
 				 switch (event.getAction() & MotionEvent.ACTION_MASK) {

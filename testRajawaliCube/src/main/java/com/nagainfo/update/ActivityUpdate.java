@@ -1,4 +1,4 @@
-package com.nagainfo.update;
+package com.nagainfomob.update;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
@@ -13,10 +13,10 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 
-import com.nagainfo.registration.GetDeviceId;
-import com.nagainfo.smartShowroom.GlobalVariables;
-import com.nagainfo.smartShowroom.R;
-import com.nagainfo.smartShowroom.XMLParser;
+import com.nagainfomob.registration.GetDeviceId;
+import com.nagainfomob.smartShowroom.GlobalVariables;
+import com.nagainfomob.smartShowroom.R;
+import com.nagainfomob.smartShowroom.XMLParser;
 
 import android.app.ActionBar;
 import android.app.Activity;

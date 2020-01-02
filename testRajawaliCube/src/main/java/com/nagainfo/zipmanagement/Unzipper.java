@@ -1,4 +1,4 @@
-package com.nagainfo.zipmanagement;
+package com.nagainfomob.zipmanagement;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -8,8 +8,8 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipException;
 import java.util.zip.ZipInputStream;
 
-import com.nagainfo.smartShowroom.LoadProject;
-import com.nagainfo.smartShowroom.UnzipCompletedListener;
+import com.nagainfomob.smartShowroom.LoadProject;
+import com.nagainfomob.smartShowroom.UnzipCompletedListener;
 
 import android.util.Log;
 

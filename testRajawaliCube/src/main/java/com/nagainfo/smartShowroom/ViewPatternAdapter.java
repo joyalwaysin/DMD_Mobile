@@ -1,9 +1,9 @@
-package com.nagainfo.smartShowroom;
+package com.nagainfomob.smartShowroom;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import com.nagainfo.update.ImageLoader;
+import com.nagainfomob.update.ImageLoader;
 
 import android.app.Activity;
 import android.content.Context;

@@ -1,10 +1,10 @@
-package com.nagainfo.registration;
+package com.nagainfomob.registration;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 
-import com.nagainfo.smartShowroom.GlobalVariables;
+import com.nagainfomob.smartShowroom.GlobalVariables;
 
 public class SessionManager {
     SharedPreferences pref;
